@@ -1,0 +1,1 @@
+stenosis,aspirin,CORONARY ARTERY DISEASE,Heparin,enoxaparin,Atenolol,Lisinopril,radiculopathy,ANGINA,disease,hypertension,simvastatin,ILLNESS,gastrointestinal distress,angina.,sinus bradycardia,infarction,ALLERGIES,inguinalhernia,bradycardia,penicillin,CARDIOVASCULAR,Captopril

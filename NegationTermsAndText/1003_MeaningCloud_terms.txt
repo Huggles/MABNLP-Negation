@@ -1,0 +1,1 @@
+apnea,obesity,disease,fibromyalgia,anemia,pain,allergy,infection,hemophilia,edema,influenza,flu,pneumonia,fever,arrhythmia

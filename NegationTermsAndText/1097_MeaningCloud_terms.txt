@@ -1,0 +1,1 @@
+pain,heart disease,allergy,nephrosis,eruption,nausea,cancer,fever,cold sore,edema,ischemia

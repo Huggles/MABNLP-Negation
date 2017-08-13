@@ -1,0 +1,7 @@
+surgical scar,scar,anger
+disorder,peripheral vascular disease,hypertension,burn,tinea pedis,obstructive sleep apnea,pus,chills,hyperventilation syndrome,cellulitis,osteomyelitis,dyslipidemia,chronic renal insufficiency,hyperlipidemia , chronic renal
+insufficiency,erythema,fever,chronic loss,OF PRESENT ILLNESS,right medial thigh cellulitis,foot ulcers,deep vein thrombosis,obesity,coronary artery disease,cellulitis x,diabetic
+foot ulcers,severe peripheral arterial disease,RENAL FAILURE,peptic ulcer disease,Infectious Disease,foot
+pain,dry
+pressure sore,anemia,II
+diabetes,morbid obesity

@@ -1,0 +1,4 @@
+pulmonary
+embolisms,urinary tract infection,pulmonary embolisms,pulmonary embolism,heparin,Coumadin,fibroids,pleuritic
+chest pain,pleuritic chest pain,costochondritis,asthma,lupus,obese,wound,atelectasis,sinus tachycardia,deep venous
+thrombosis,defect,Coumadin,ceftizoxime,Bactrim,Coumadin,Coumadin,Bactrim,Motrin,Colace,Coumadin

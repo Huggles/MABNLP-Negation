@@ -1,0 +1,1 @@
+disease,pain,angina,diabetes,hypertension

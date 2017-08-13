@@ -1,0 +1,1 @@
+Aspirin,DIABETES,INFARCTION,hypertension,Lisinopril,diaphoresis.,Diltiazem,CHRONIC,HYPERTENSION,ventricular hypertrophy,Jugular venous pressure,MYOCARDIAL,ILLNESS,Gastroesophageal reflux,ALLERGIES,Omeprazole,hypercholesterolemia,Atenolol,neuropathy,Heparin,Digoxin

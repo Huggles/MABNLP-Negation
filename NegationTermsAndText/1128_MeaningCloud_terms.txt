@@ -1,0 +1,1 @@
+pain,asthma,heart disease,myocardial infarction,angina,allergy,infection

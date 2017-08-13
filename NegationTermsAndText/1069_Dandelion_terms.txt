@@ -1,0 +1,5 @@
+PROTONIX,PANTOPRAZOLE,ACETYLSALICYLIC ACID,AMITRIPTYLINE,LEVOFLOXACIN,AMITRIPTYLINE,LEVOFLOXACIN,KEFLEX,CEPHALEXIN,VASOTEC,ENALAPRIL,VASOTEC,allergy,LISINOPRIL,FLUTICASONE PROPIONATE,INH,LEVOFLOXACIN,SALMETEROL
+XINAFOATE,INSULIN LISPRO,NPH,NPH,LEVOFLOXACIN,ciprofloxacin,AMITRIPTYLINE,LEVOFLOXACIN,COZAAR,LOSARTAN,MICONAZOLE NITRATE,TRAMADOL,PCP,TETRACYCLINE,LISINOPRIL,infections,dependent,obesity,djd,nephrotic syndrome,nephrotic
+syndrome,hypercholesterolemia,medullary,cva,pica,anemia,arrythmia,obstructive sleep apnea,esrd,morbid obesity,coronary artery disease,chf,left ventricular hypertrophy,diabetes type 2,retinopathy,nephropathy,neuropathic pain,degenerative joint
+disease,iron-deficiency anemia,Enalapril,Lispro,NPH,NPH,Losartan,Protonix,Oxycodone,rvh,infection,morbidly obese,scar,fistula,v-fib,arrhythmia,hypoglycemia,hypotension,ischemia,ischemic heart disease,bleeding,hematoma,Keflex,epogen,NPH,candidiasis,Miconazole,PPX,heparin,Nexium,irregular
+heartbeats,Keflex,Levofloxacin

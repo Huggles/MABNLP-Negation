@@ -1,0 +1,1 @@
+infectious disease,cellulitis,edema,infection,dermatitis,diabetes,obesity,eruption,hypertension,pain,cyanosis,osteomyelitis

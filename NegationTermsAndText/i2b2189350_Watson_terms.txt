@@ -1,0 +1,1 @@
+PAIN,pulmonary edema,Lisinopril,metformin,Atenolol,simvastatin,diabetes,hypoxia,diastolic dysfunction,nifedipine,left bundle branch block,hydrochlorothiazide,aspirin,lung disease,ANGINA,INFARCTION,paroxysmal nocturnal dyspnea,respiratory distress,jugular venous pressure,disease,ALLERGIES,Penicillin,infarction.

@@ -1,0 +1,4 @@
+dry cough,h/o multinodular goiter,COPD,pleuritic chest
+pain,hypothyroidism,H/O abscess,also c/o fever,bronchitis,psoriatic plagues,ALLERGY,PSORIASIS
+( SEVERE ) atrial fibrillation,high cholesterol,pain,chronic renal dysfunction,diffuse wheezing,tachycardia,atrial fibrillation,likely
+bronchitis,cough,Infections,Wheezing,asthma

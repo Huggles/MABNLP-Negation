@@ -1,0 +1,1 @@
+renal disease,chronic disease,infectious disease,pulmonary edema,infection,pain,epistaxis,osteomyelitis,edema,delirium,diabetes,hypertension,obesity,cold sore,anemia,allergy,depression,nausea,fever,pneumonia,neuropathy,Endophthalmitis,calculus,hematoma,retinopathy,insomnia,convulsion,constipation

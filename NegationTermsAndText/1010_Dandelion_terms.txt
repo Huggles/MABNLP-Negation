@@ -1,0 +1,3 @@
+asthma exacerbation,coronary artery disease,chronic obstructive pulmonary
+disease,sleep apnea,hypertension,obesity,copd,asthma,dvt,mi,stenosis,defects,bronchitis,prednisone,arrhythmias,upper respiratory infection,rhinorrhea,joint pain,Solu-
+Medrol,breast cyst,labyrinthitis,sjogren's disease,allergies,Theophylline,Albuterol,Prednisone,Guanfacine,Verapamil,Lasix,Cromolyn,Ranitidine,obese,thrush,chf,aspiration,infectious,Heparin,Prednisone,ischemic,Aspirin,Atrovent,Beconase,Heparin,Pepcid,Prednisone,Albuterol,Isordil,Verapamil,Lasix,Beclovent,reflux,Reglan,gastroesophageal reflux

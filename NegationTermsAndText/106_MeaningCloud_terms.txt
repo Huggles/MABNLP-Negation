@@ -1,0 +1,1 @@
+angina,pain,myocardial infarction,disease,allergy,depression,eruption,edema,hypertension,ectopy

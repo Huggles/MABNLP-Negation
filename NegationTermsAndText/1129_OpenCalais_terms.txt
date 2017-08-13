@@ -1,0 +1,2 @@
+GLUCOSE INTOLERANCE,OF PRESENT ILLNESS,pain,PERIPHERAL VASCULAR DISEASE,diabetes mellitus,hypertension,ATHEROSCLEROTIC OCCLUSIVE CORONARY ARTERY
+DISEASE,severe three vessel disease,coronary artery disease,angina,patient's persistent chest pain

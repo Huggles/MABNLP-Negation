@@ -1,0 +1,4 @@
+osteoarthritis,OF PRESENT ILLNESS,pain,ALLERGIES,inguinal hernia,pulmonary
+thromboembolism,sleep apnea,chronic atrial fibrillation,No known drug allergies,chest pain,abdominal aortic aneurysm,end-stage osteoarthritis,RIGHT HIP OSTEOARTHRITIS
+SURGERY,right inguinal hernia,non-insulin dependent diabetes mellitus,osteoarthritis , coronary artery
+disease status post myocardial infarction,hip pain

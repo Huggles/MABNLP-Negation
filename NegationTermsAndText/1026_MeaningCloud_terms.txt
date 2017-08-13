@@ -1,0 +1,1 @@
+pain,lesion,disease,convulsion,nausea,hypercholesterolemia,diabetes,hypertension,gout,dyskinesia,hypothyroidism,ischemia,hernia,hernia,complaint,infection,delirium,disorder,edema

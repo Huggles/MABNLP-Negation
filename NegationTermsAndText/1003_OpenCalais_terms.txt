@@ -1,0 +1,4 @@
+restrictive lung disease,congestive heart failure,pneumonia,restrictive pulmonary
+disease,obesity hypoventilation,fibromyalgia,obstructive sleep apnea,iron deficiency anemia,dyspnea,fever,Pain,PICA,GERD,chronic hypoxia,sleep apnea,obesity,central hypoventilation syndrome,cough,Cardiac and pulmonary social work,Infections,influenza,hemophilia,pulmonary
+rehab,Treatment/Stay
+obesity,morbid obesity

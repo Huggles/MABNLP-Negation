@@ -1,0 +1,5 @@
+hospital day
+pulmonary angiography,PRESENT ILLNESS,showed bilateral basilar atelectasis,small pulmonary embolisms,menorrhagia,pleuritic chest pain,sharp pleuritic
+chest pain,pulmonary embolism,pulmonary
+embolisms,shortness of breath,sinus tachycardia,urinary tract infection,deep venous
+thrombosis,lupus,fibroids,Asthma

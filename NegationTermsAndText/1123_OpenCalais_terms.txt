@@ -1,0 +1,2 @@
+ALLERGY,loss of consciousness,syncope,Pain,Neuro - doubt seizure,breakthrough pain,so more likely Pickwickian syndrome,chronic pain,R base atelectasis,Epilepsy,chronic pain
+-f/u,Infections,hypersomnolence,daily drowsiness,apnea

@@ -1,0 +1,1 @@
+cystitis,myocardial infarction,disease,edema,pain,cancer,hypertension,anemia,diabetes,angina,neuropathy,hypercholesterolemia,allergy,leukemia,cold sore,scar,ischemia,bronchospasm

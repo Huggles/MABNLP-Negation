@@ -1,0 +1,1 @@
+fever,abdominal pain,vomiting,inflammatory syndrome,Allergies,cholangitis,Acute gastroenteritis,Hypertension,Nausea,Inflammatory rheumatism,Diabetes,Allergic rhinitis,Ischaemic heart disease,Dehydration,Acute myocardial infarction

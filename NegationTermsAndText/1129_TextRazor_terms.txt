@@ -1,0 +1,1 @@
+vascular disease,glucose intolerance,pain,percocet,chest pain,angina,cardiac catheterization,intra-aortic balloon pump,coronary artery bypass,atherosclerotic,incisions,hypertension,diabetes mellitus,bypass grafting,coronary artery disease,diabetic,peripheral vascular disease,coronary artery bypass grafting

@@ -1,0 +1,3 @@
+mg PO q.h.s. p.r.n. insomnia,aspiration pneumonia,ALLERGIES,congestive heart failure,VENTRICULAR TACHYCARDIA,pneumonia,residual disease,shingles,subjective fever,iron
+deficiency anemia,hypothyroidism,mg PO q.i.d. p.r.n. nausea,tablets PO b.i.d. p.r.n. constipation,nausea,mg PO q.d. p.r.n. constipation,paroxysmal atrial fibrillation,chronic renal
+insufficiency,diabetes,puffs inhaler q.i.d. p.r.n. wheezing,OF PRESENT ILLNESS,vomiting,pain,productive cough,papular rash extending,No known drug allergies,hours p.r.n. headache,pulmonary edema,Coronary artery disease,Ventricular fibrillation,atrial fibrillation,infection,moderate aortic stenosis,rash,Infectious Disease,ischemic cardiomyopathy,mg PO b.i.d. p.r.n. nausea

@@ -1,0 +1,1 @@
+pain,appendicitis,diabetes,myocardial infarction,allergy,gastroenteritis,fever,hypotension,arrhythmia,obesity

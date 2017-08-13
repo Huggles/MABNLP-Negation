@@ -1,0 +1,1 @@
+pain,gout,anemia,osteoarthritis,pancreatitis,infection,anxiety,depression,apnea,nausea,obesity,fever,diverticulosis,allergy

@@ -1,0 +1,2 @@
+ACETYLSALICYLIC ACID,LIPITOR,ATORVASTATIN,COREG,CARVEDILOL,CLINDAMYCIN,PLAVIX,CLOPIDOGREL,LASIX,FUROSEMIDE,NPH,IMDUR,ISOSORBIDE MONONITRATE,LISINOPRIL,LORAZEPAM,allergy,Penicillins,ischemic cardiomyopathy,infections,chronic renal insufficiency,diabetes mellitus,peripheral neuropathy,cva,vf,arrest,hypertension,hypercholesterolemia,defects,chf,Coreg,Plavix,Lipitor,Lisinopril,Lasix,Imdur,NPH,Lorazepam,hematoma,ischemic,cardiac:
+ischemia,Mucomyst,pneumothorax,NPH,hypoglycemia,cardiac

@@ -1,0 +1,4 @@
+glucose intolerance,abdominal pain,ALLERGIES,hypertension,BPH,leiomyoma,mild esophagitis,hematuria,hip pain,nausea,Vertigo,diabetes,basal cell skin carcinoma,OF PRESENT ILLNESS,vomiting,fatigue,Status post right cataract,hiatal hernia,coronary artery disease,renal
+disease,MEDICAL
+ALLERGIES,psoriasis,chronic psoriasis,diarrhea,peptic ulcer disease,cyst,transient ischemic attacks,spastic
+colon,mild pyuria,reflux esophagitis,lightheadedness,tuberculosis

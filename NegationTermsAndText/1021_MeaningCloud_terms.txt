@@ -1,0 +1,1 @@
+ictus,cerebral infarct,disease,obesity,hypertension,diabetes,hypercholesterolemia,cold sore,allergy,apnea,bronchitis,edema,hemorrhage,infarct,lesion

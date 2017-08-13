@@ -1,0 +1,1 @@
+myocardial infarction,pain,angina,hypertension,diabetes,allergy,nausea,disease,retinopathy,neuropathy,ischemia,depression,scar,cyanosis,hypercholesterolemia,hypertrophy

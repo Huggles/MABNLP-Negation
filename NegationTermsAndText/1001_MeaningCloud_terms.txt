@@ -1,0 +1,1 @@
+pulmonary edema,myocardial infarction,disease,diabetes,hypertension,anemia,hypercholesterolemia,pain,edema,depression,glaucoma,ischemia,pneumonia,diverticulitis,insomnia,allergy,cancer,complaint,lesion,cold sore,angina,infection

@@ -1,0 +1,1 @@
+osteoarthritis,hypertension,hypercholesterolemia,constipation,complaint,allergy,asthma

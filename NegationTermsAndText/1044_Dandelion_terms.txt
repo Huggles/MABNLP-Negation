@@ -1,0 +1,4 @@
+supraventricular tachycardia,hypocalcemia,ACETYLSALICYLIC ACID,ALBUTEROL,INH,CALCITRIOL,FUROSEMIDE,METOPROLOL SUCCINATE,EPOETIN ALFA,LISINOPRIL,AMLODIPINE,ACETYLSALICYLIC ACID,ALBUTEROL,INH,NORVASC,AMLODIPINE,CALCITRIOL,EPOETIN ALFA,LASIX,FUROSEMIDE,LISINOPRIL,METOPROLOL SUCCINATE,allergy,Penicillins,AMPICILLIN,PROCARDIA,infections,chronic kidney disease,Adenosine,ckd,prednisone,narrow complex tachycardia,avnrt,sickle cell trait,anemia,pe,coumadin,morbid obesity,allergies,Procardia,bruit,pericardial
+effusion,cardiomegaly,defect,high,pleuritic chest pain,heparin,ischemic,heart disease,cardiomyopathy,diastolic dysfunction,diastolic
+dysfunction,ventricular enlargement,av fistula,Calcitriol,high blood pressure,clot,Metoprolol,high blood
+pressure

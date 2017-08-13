@@ -1,0 +1,7 @@
+viral illness,abdominal pain,labyrinthitis,infectious component,ALLERGIES,mild bronchitis,Hypertension,Sjogren's disease,COPD,chest pain,headache,paroxysmal nocturnal dyspnea,dyspnea,shortness of breath,chills,patient's
+cough,/COPD,Chronic obstructive pulmonary
+disease,significant disease,nausea,marked respiratory
+distress,upper respiratory infection,Benign breast cyst,thrush,recurrent dyspnea,vomiting,fatigue,Sleep apnea,Obesity,patient's dyspnea
+included multiple normal EKG's,Allergic rhinitis,Coronary artery disease,further
+gastroesophageal reflux studies,cough,rash,joint pain,recently diagnosed
+sleep apnea,wheezing,Asthma

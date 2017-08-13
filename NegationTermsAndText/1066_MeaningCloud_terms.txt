@@ -1,0 +1,1 @@
+pain,angina,obesity,hernia,hernia,allergy,infection,asbestosis,hypertension,disease,injury,lesion,scar,nausea,asthma,disorder

@@ -1,0 +1,4 @@
+Charcot joint,chest pain,headache,Diabetic neuropathy,drug allergies,CELLULITIS,osteomyelitis,end-stage renal disease,Gastroesophageal reflux disease,retinal hemorrhage,abdominal pain,pain in his left foot,chronic recurrent cellulitis,Hypertension,metatarsal osteomyelitis,shortness of breath,malignant
+hypertension,mostly phantom limb,Coumadin
+ALLERGIES,Recurrent lower extremity cellulitis,joint aches,diabetes,Hyperlipidemia,HCV,erythema,fever,OF PRESENT ILLNESS,pain,chronic right foot ulcer,breakthrough pain,infection,rash,recurrent cellulitis,MRSA cellulitis,Infectious
+disease,abscess

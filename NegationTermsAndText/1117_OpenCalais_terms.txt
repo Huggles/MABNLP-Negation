@@ -1,0 +1,3 @@
+Pneumonia,hypertension,cardiomyopathy,clinical hypothyroidism,LV thrombus,oral heart failure,DIABETES,fatigue,diabetes
+mellitus,Heart Failure,cough,Infections,breast cancer,Gatall Health Care Coumadin clinic
+ALLERGY

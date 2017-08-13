@@ -1,0 +1,1 @@
+disease,pain,complaint,diabetes,hypertension,allergy,cold sore,edema,infection,hypercholesterolemia

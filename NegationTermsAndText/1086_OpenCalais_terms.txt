@@ -1,0 +1,4 @@
+ALLERGY,fever,PROBABLE allergy,Pain,MG PR Q6H PRN Nausea
+TIGAN,PO DAILY PRN Constipation
+REGLAN,IV Q6H PRN Nausea
+ZOFRAN,constipation,Infections

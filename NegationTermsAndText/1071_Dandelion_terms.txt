@@ -1,0 +1,4 @@
+coronary artery disease,inferior myocardial
+infarction,stenosis,hypertension,hypercholesterolemia,abdominal
+aortic aneurysm,removal,cyst,coronary
+artery disease,myocardial infarction,drug allergies,tetanus,Atenolol,lisinopril,aspirin,atorvastatin,fenofibrate,Vicodin,vitamins C,infection,bruits,incision,scarring,varicosities,mitral valve insufficiency,diltiazem,Colace,Zetia,Lasix,metformin,Toprol-XL,oxycodone,Lasix,PCP,type ii diabetic,diabetic

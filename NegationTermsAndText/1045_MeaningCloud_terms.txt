@@ -1,0 +1,1 @@
+disease,lesion,myocardial infarction,angina,diabetes,allergy,cyanosis,gout,hypertension,cold sore,edema

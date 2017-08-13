@@ -1,0 +1,2 @@
+crescendo angina,OF PRESENT ILLNESS,insulin dependent diabetes,gout,ALLERGIES,myocardial infarction,hypertension,POST-OPERATIVE ATRIAL
+FIBRILLATION,diabetes mellitus,lymphadenopathy,coronary artery disease,stable exertional angina,supraventricular tachycardia,atrial fibrillation,drug allergies,multivessel disease,likely atrial flutter,atrial flutter

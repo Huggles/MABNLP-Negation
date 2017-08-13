@@ -1,0 +1,2 @@
+PDA,abdominal pain,Cholecystitis,hypertension,CHEST PAIN,umbilical hernia,hypothyroidism,shortness of breath,concentric LVH,nausea,schizoaffective disorder,degenerative joint disease,non ST elevation MI/congestive heart failure,OF PRESENT ILLNESS,vomiting,Pain,gout,insulin
+dependent diabetes,coronary artery disease,hypercholesterolemia , chronic renal insufficiency,delirium,infection,Cardiac chest pain,tardive dyskinesia

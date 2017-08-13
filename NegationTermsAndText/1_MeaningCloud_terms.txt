@@ -1,0 +1,1 @@
+disease,polyp,pulmonary edema,heart disease,pain,diabetes,anemia,fistula,cold sore,hernia,hernia,complaint,infection,colitis,osteoarthritis,lesion,allergy

@@ -1,0 +1,4 @@
+cellulitis,end-stage renal disease,charcot foot,erythema,vancomycin,joint aches,charcot joint,osteomyelitis,type
+2,type 1 diabetes,neuropathy,retinopathy,nephropathy,diabetic neuropathy,retinal hemorrhage,malignant
+hypertension,gastroesophageal reflux disease,hyperlipidemia,foot ulcer,Colace,gemfibrozil,Lantus,Lipitor,Neurontin,Protonix,Renagel,Requip,Coumadin,drug allergies,diabetes,le,abscess,hep b,growth,Vancomycin,Unasyn,abnormality,charcot arthropathy,Unasyn,Augmentin,Vancomycin,infectious
+disease,Levofloxacin,Flagyl,infectious disease,below knee amputation,infection,dvt,Coumadin,heparin,ischemia,high,mi,aspirin,lisinopril,lopressor,Lantus,Aspart,phantom limb pain,ketamine,Fentanyl,PCA,PCA,oxycontin,oxycodone,Lyrica,neuropathic pain,Ativan,obese,at 076

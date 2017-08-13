@@ -1,0 +1,5 @@
+leukemia,showed congestive heart failure,severe hemorrhagic cystitis,congestive
+heart failure,peripheral vascular disease,ALLERGIES,hypertension,bronchospasm,chest pain,dyspnea,shortness of breath,hematuria,radiation cystitis,Chronic obstructive pulmonary
+disease,non-sustained ventricular tachycardia overnight,mild LVH,Bladder cancer,diabetes,bilateral carotid stenosis,OF PRESENT ILLNESS,fatigue,myocardial infarction,chronic anemia,non Q-wave myocardial infarction,chest tightness,chronic hemorrhagic cystitis,recurrent angina,coronary artery
+disease,sublingual nitroglycerin
+p.r.n. chest pain,angina,OUT MYOCARDIAL INFARCTION,prostate cancer,Two frontal scars,profound anemia,hypercholesterolemia,adult onset diabetes mellitus,superficial bladder cancer,HEMORRHAGIC CYSTITIS

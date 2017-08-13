@@ -1,0 +1,2 @@
+congestive heart failure,ms,chf,hypertension,hypertrophic cardiomyopathy,obstructive sleep apnea,dvt,Coumadin,aortic insufficiency,Lasix,Lasix,aspirin,Tylenol,oxycodone,Norvasc,Toprol-XL,Lasix,clonidine,lisinopril,Lipitor,Claritin,albuterol,allergies,Penicillin,Motrin,obese,cardiomegaly,pleural,Lasix,Lasix,Zaroxolyn,Zaroxolyn,atrial fibrillation,mi,restrictive lung
+disease,asthma,B12,chronic back pain,Lovenox,Nexium,Tylenol,Norvasc,Lipitor,Colace,Pepcid,Lasix,Claritin,Zaroxolyn,Lasix,Toprol-XL,Percocet

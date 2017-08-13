@@ -1,0 +1,1 @@
+pain,infectious disease,heart disease,anemia,edema,hypertension,gastritis,diabetes,arthritis,ischemia,glaucoma,polyp,fever,pneumonia,thrombosis,depression,embolism,hypercholesterolemia

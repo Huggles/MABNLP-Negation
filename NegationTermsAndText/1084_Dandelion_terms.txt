@@ -1,0 +1,2 @@
+CAPTOPRIL,LOPRESSOR,METOPROLOL TARTRATE,PAXIL,PAROXETINE,ZOCOR,SIMVASTATIN,allergy,unstable angina,infections,mi,myocardial infarction,herniation,herniated
+disc,hypercholesterolemia,adenosine,cva,dysarthria,ischemia,Zocor,Plavix,stricture,pcp

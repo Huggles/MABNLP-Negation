@@ -1,0 +1,1 @@
+infarction,chest pain,unstable angina,ischemia,obese,hypercholesterolemia,myocardial infarction,coronary artery bypass graft,pain,diabetes mellitus,cardiac cath lab,murmur,intra-aortic balloon pump,angina,mitral valve replacement,hytrin,allergies,nitroglycerins,hypertension,aneurysm,seizures,coronary artery disease,heparin

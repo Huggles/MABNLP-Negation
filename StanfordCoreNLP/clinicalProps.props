@@ -1,0 +1,5 @@
+customAnnotatorClass.tokensregex = edu.stanford.nlp.pipeline.TokensRegexAnnotator
+
+tokensregex.rules = clinicalRules.rules
+
+annotators = tokenize,ssplit,pos,lemma,ner,tokensregex

@@ -1,0 +1,1 @@
+pain,fracture,epilepsy,obesity,fainting,apnea,constipation,allergy,infection,edema,complaint

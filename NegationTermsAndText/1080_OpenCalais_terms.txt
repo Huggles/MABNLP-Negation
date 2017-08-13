@@ -1,0 +1,5 @@
+PDA,chronic hip pain,peripheral vascular
+disease,necrosis,H/O alcohol
+abuse,chest pain,cont COPD,LV thrombus,GOUT DIVERTICULITIS LEUKOPLAKIA
+cardiomyopathy,noncardiac chest pain,thrombocytopenia,Pain,angina nevi,GERD,LV thrombus
+##GI,angina,Infections,COPD/asthma

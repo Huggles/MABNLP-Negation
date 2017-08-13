@@ -1,0 +1,1 @@
+complaint,myocardial infarction,heart disease,nausea,convulsion,hypercholesterolemia,pain,diabetes,hypertension,ischemia,allergy,rhinitis,fever,gastroenteritis

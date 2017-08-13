@@ -1,0 +1,1 @@
+pain,heart disease,allergy,stress,scar,infection,thrombosis,angina,asthma,polyp,pericarditis,fever

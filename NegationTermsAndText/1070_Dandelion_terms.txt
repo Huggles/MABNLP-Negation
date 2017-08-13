@@ -1,0 +1,8 @@
+congestive heart failure,hypertension,dyslipidemia,acute renal failure,paroxysmal atrial fibrillation,atrial fibrillation with rapid
+ventricular response,anemia,gastritis,Lasix,deep venous thrombosis,pe,nephrotic syndrome,pneumonia,folate deficiency,atrial fibrillation with rapid ventricular
+response,nonsustained ventricular tachycardia,insulin-dependent diabetes mellitus,back pain,colon polyps,cataracts,glaucoma,Lasix,Atenolol,NPH insulin,Oxycodone,Senna,Zocor,Norvasc,Accupril,Miconazole,Celexa,Avandia,Nexium,Albuterol,heart disease,obese,hepatosplenomegaly,erythematous,congestive
+heart failure,ischemia,aspirin,mi,Lopressor,adenosine,defects,atrial fibrillation,nonsustained ventricular
+tachycardia,nsvt,depressed,Coumadin,fluid overload,Lasix,dilated
+cardiomyopathy,dvt,pulmonary embolism,pulmonary emboli,iron-deficiency anemia,NPH,diabetes,Avandia,heart failure,volume
+depletion,infectious disease,uti,Bactrim,Bactrim,arthritis,Celebrex,Celebrex,Celexa,Aspirin,Colace,Prozac,Lasix,NPH,Zestril,Oxycodone,Senna,Aldactone,Coumadin,Zocor,Toprol XL,Imdur,Bactrim,Prednisolone acetate,Nexium,Albuterol,Miconazole nitrate,powder,Coumadin,acute renal
+failure

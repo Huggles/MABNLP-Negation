@@ -1,0 +1,1 @@
+obesity,anemia,pain,heart disease,infection,allergy,ischemia,arrhythmia,apnea,hypercholesterolemia,edema,disease,diabetes,hypertrophy,retinopathy,stress,fistula,hypoglycemia,hypotension,hematoma,candidiasis

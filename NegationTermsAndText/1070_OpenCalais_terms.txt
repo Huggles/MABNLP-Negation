@@ -1,0 +1,4 @@
+Glaucoma,chronic folate,Congestive heart failure,Pneumonia,Hypertension,folate deficiency anemia,Insulin-dependent diabetes mellitus,chest pain,Cataracts,chronic pain,shortness
+of breath,arthritis,chills,Deep venous thrombosis,Dyslipidemia,paroxysmal atrial fibrillation,heart disease,diabetes,puffs inhaler q.i.d. p.r.n. wheezing,nephrotic syndrome,OF PRESENT ILLNESS,pain,heart failure,Gastritis,pulmonary emboli,dilated
+cardiomyopathy,Nonsustained ventricular tachycardia,pulmonary embolism,atrial fibrillation,iron-deficiency anemia,sinus bradycardia,depression,back pain,Infectious Disease,Acute renal failure,Anemia,frank proteinuria,Chronic knee,likely congestive
+heart failure

@@ -1,0 +1,5 @@
+congestive heart failure,hypertension,diabetes,coronary disease,myocardial infarction,weight gain,myocardial
+infarction,pleural effusion,adhesions,left bundle branch
+block,mitral regurgitation,biventricular failure,compression,tricuspid
+insufficiency,coronary artery disease,amaurosis fugax,Coumadin,tia,Coumadin,allergies,Penicillin,Ceclor,Lopressor,Coumadin,Zocor,Lasix,Captopril,NPH,Zantac,Procardia XL,age,obese,bruits,scar,s3,left bundle branch block,pleural
+effusion,scarring,Lasix,Lasix,NPH,NPH,Captopril,Lasix,NPH,Isordil,Lopressor,chest pain,Coumadin,Zocor,Zantac,ofloxacin,bloody urine,burning

@@ -1,0 +1,2 @@
+coronary artery disease,hypertension,insulin dependent diabetes mellitus,hypertriglyceridemia,unstable angina,coronary,insulin dependent
+diabetes mellitus,dyslipidemia,age,infarction,Persantine,chest pain,aminophylline,drug allergies,NPH insulin,aspirin,digoxin,Glucotrol,gemfibrozil,Atenolol,heparin,Colace,sma,cardiomegaly,stenosis,hematoma,Ticlid,Atenolol,Captopril,Gemfibrozil,Glucotrol,NPH insulin,Ticlid

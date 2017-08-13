@@ -1,0 +1,3 @@
+CHRONIC ATRIAL FIBRILLATION,hypertension,CHEST PAIN,shortness of breath,mild left ventricular hypertrophy,pulmonary capillary wedge,exertional angina,drug allergies,unstable chest pain,nausea,Gastroesophageal reflux,Degenerative joint disease,substernal chest pain,cardiomegaly,adult onset diabetes,sub-q q.a.m.
+ALLERGIES,pain,vomiting,PRESENT ILLNESS,INSULIN DEPENDENT DIABETES,mild
+tricuspid regurgitation,myocardial infarction,unstable angina,atrial fibrillation,hypercholesterolemia,right shin scar,p.r.n. chest pain,small vessel disease

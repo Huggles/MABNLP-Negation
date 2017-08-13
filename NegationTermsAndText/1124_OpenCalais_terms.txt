@@ -1,0 +1,4 @@
+atypical chest pain,PDA,hypertension,chest pain,arm pain,arthritis,shortness of breath,hyperlipidemia,ALLERGY,osteoarthritis,typical angina,mild
+conc LVH,esophageal
+reflux,gerd,questionable unstable angina,right thyroid nodule,recurrent angina,p/w chest pain,coronary artery disease,angina,Infections,light
+headedness,hypercholesterolemia

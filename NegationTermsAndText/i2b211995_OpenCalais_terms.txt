@@ -1,0 +1,4 @@
+allergy,pain,peripheral vascular
+disease,insulin-dependent
+diabetes,hypertension,cataracts,coronary artery
+disease,infection

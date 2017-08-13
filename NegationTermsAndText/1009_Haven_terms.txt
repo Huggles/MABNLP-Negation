@@ -1,0 +1,1 @@
+nitroglycerin,metoprolol,warfarin,heparin,finasteride,terazosin,morphine,furosemide,captopril,lovastatin,phenytoin,digoxin,aspirin,chest pain,heart attack,aortic aneurysm,abdominal aortic aneurysm,pain,angina pectoris,unstable angina,coronary artery disease,hypertension,epileptic seizure,stenosis,coma,crackles,obesity,hypercholesterolemia,aneurysm,allergy

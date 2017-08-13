@@ -1,0 +1,4 @@
+pain,esophageal reflux,GERD,gastroparesis,myocardial infarction,heart disease
+causing chest pain,chest pain,DJD- motrin HTN
+NIDDM,angina,Treatment/Stay
+asthma CP - nl,Infections,ocular chol emboli COPD,COPD/asthma,asthma

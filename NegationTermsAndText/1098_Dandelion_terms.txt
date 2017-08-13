@@ -1,0 +1,6 @@
+diabetes,end-stage renal disease,infections,compression fracture,av fistula,linezolid,bacteremia,fluconazole,candidemia,vancomycin,refeeding syndrome,decubitus ulcers,type i diabetes,neuropathy,nephropathy,retinopathy,gastroparesis,hypertension,hyperlipidemia,atrial fibrillation,osteomyelitis,infected,sepsis,spinal cord
+compression,colitis,metronidazole,fungemia,Amiodarone,Fluconazole,Heparin,NPH,regular insulin,Reglan,Lopressor,Vancomycin,allergies,celecoxib,growth,obese,wound,atrophy,contracture,end-stage
+renal disease,cord
+compression,rupture,bleed,infectious disease,high,decubitus
+ulcers,Fluconazole,Reglan,Nexium,NPH,refeeding
+syndrome,dvt,Nexium

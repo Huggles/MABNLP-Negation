@@ -1,0 +1,6 @@
+myocardial infarction,adult onset diabetes,diabetes mellitus,peripheral vascular disease,congestive
+heart failure,anemia,prostate cancer,bladder cancer,hematuria,blood loss,diabetes,hypertension,hypercholesterolemia,congestive heart failure,Lasix,Aspirin,heparin,bronchospasm,neuropathy,tias,carotid stenosis,chronic obstructive pulmonary
+disease,allergies,Penicillin,Glyburide,Cardizem CD,Colace,leukemia,cva,coronary artery
+disease,bruits,scars,ischemic,dependent,angina,congestive heart
+failure,Lasix,non-sustained ventricular tachycardia,pvc,ischemia,cystitis,Glyburide,Lopressor,chest pain,pain.
+condition

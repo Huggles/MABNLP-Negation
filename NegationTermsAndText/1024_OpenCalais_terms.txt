@@ -1,0 +1,4 @@
+restrictive lung
+disease,macrocytic anemia,small bilateral pleural effusions,ALLERGIES,CONGESTIVE HEART FAILURE,hypertrophic cardiomyopathy,Hypertension,obstructive sleep apnea,dyspnea,shortness of breath,right shoulder pain,sciatica,mild
+pulmonary edema,moderate concentric LVH,chronic lower back pain,OF PRESENT ILLNESS,pain,chronic back pain,moderate-to-severe cardiomegaly,mild
+atrial fibrillation,MS,h. p.r.n. headache,rash,intermittent chest pain,wheezing,asthma,morbid obesity

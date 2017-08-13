@@ -1,0 +1,1 @@
+allergy,myocardial infarction,hernia,hernia,gout,infection,thrombosis,diverticulitis,insomnia,fracture,embolism,diabetes

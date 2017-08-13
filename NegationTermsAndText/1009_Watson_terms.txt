@@ -1,0 +1,1 @@
+INFARCTION,ANGINA,myocardial infarction,coronary artery,heparin,proscar,stenosis,HYPERTENSION,DIABETES,HYPERCHOLESTEROLEMIA,seizures,ILLNESS,Abdominal aorticaneurysm,jugular venous distention,digoxin,metoprolol,morphine,Aspirin,Captopril

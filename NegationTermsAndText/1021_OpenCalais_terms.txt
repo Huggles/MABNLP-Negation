@@ -1,0 +1,4 @@
+cardioembolic disease,OF PRESENT ILLNESS,vertical diplopia,congestive heart failure,ALLERGIES,CHF bronchitis,headaches,sleep
+apnea,hypertension,chronic atrial fibrillation,No known drug allergies,mild dysmetria,showed mild
+cardiomegaly,obesity,atrial
+fibrillation,illness,Gastroesophageal reflux disease,Status post bilateral cataract,CEREBROVASCULAR ACCIDENT,diplopia,stroke,Degenerative joint disease,Chronic renal insufficiency,hypercholesterolemia,II diabetes,very small vessel stroke,morbid obesity

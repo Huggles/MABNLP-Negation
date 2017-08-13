@@ -1,0 +1,4 @@
+acute renal failure,end-stage renal disease,urinary tract infection,chronic renal
+insufficiency,hypertension,diabetes,stroke,deep
+venous thrombosis,congestive heart failure,diastolic dysfunction,weight gain,diabetes mellitus,hyperlipidemia,chronic renal insufficiency,deep venous thrombosis,coronary artery disease,bph,anemia,aspirin,Prilosec,Lasix,Coumadin,Epogen,Norvasc,Flomax,Celexa,Neurontin,Lipitor,Colace,Senna,Novolog,Calcitriol,Hydralazine,Labetolol,drug allergies,cardiomegaly,azotemia,somnolence,myoclonic,av fistula,Norvasc,lisinopril,clonidine,chest pain,myocardial infarction,Coumadin,Coumadin,Coumadin,regular insulin,infectious disease,urine culture,levofloxacin,gentamicin,vancomycin,av
+fistula,uremia,Tylenol,Clonidine,Colace,Hydralazine,Regular insulin,Labetolol,Lactulose,Senna,Simvastatin,Norvasc,Neurontin,Flomax,Celexa,Prilosec,Coumadin,Aspirin,Lisinopril,Gentamicin

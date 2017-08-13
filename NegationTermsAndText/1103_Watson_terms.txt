@@ -1,0 +1,1 @@
+Aspirin,allergy,LISINOPRIL,asthma,ATENOLOL,ATORVASTATIN,pericarditis,fevers,CLOPIDOGREL,AZITHROMYCIN,oxycodone

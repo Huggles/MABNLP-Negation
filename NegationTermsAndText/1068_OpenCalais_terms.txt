@@ -1,0 +1,5 @@
+cystocele,baseline
+LVH,PDA,GALLSTONE DISEASE,ALLERGIES,HYPERTENSION,chest
+pain,chronic stable angina,HYPOTHYROIDISM,shortness of breath,mitral
+regurgitation,URINARY INCONTINENCE,syncopal episode,seizure,typical
+angina,SYNCOPE,pain,lung cancer,No known drug allergies,DIABETES MELLITUS,bradycardia,CORONARY ARTERY DISEASE,OF A CYSTOCELE,angina,DEFICIENCY,syncopal episodes,HYPERCHOLESTEROLEMIA

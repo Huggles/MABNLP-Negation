@@ -1,0 +1,2 @@
+facility/rehab MD
+ALLERGY,PDA,Congestive heart failure,Allergies,paroxysmal nocturnal dyspnea,LV thrombus,osteomyelitis,thrombocytopenia,Hyperlipidemia,erythema,thrush,Pain,gout,h/o MRSA bacteremia,Lymphadenopathy,r. foot osteomyelitis,FH Infectious Disease,Renal disease,Infections,II diabetes

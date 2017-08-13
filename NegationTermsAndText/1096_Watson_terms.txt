@@ -1,0 +1,1 @@
+abdominal pain,esophagitis,aspirin,coronary artery disease,ILLNESS,glucose intolerance,fatigue,nausea,hepatosplenomegaly,diaphoresis,diarrhea,ALLERGIES.,psoriasis.,reflux

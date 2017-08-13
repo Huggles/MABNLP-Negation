@@ -1,0 +1,4 @@
+diabetes
+mellitus,morbid obesity,gastroenteritis,appendicitis,non insulin dependent diabetes mellitus,drug allergies,morbidly obese,incision,gangrenous,supraventricular tachycardia,hypotension,adenosine,arrhythmia,myocardial
+infarction,Zantac,ampicillin,levofloxacin,Flagyl,supraventricular
+tachycardia,atrial fibrillation,sinus tachycardia,Lopressor,diltiazem,Diltiazem,Lopressor,Diltiazem,Lopressor,Flagyl,Lopressor,Percocet,Colace,Percocet

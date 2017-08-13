@@ -1,0 +1,1 @@
+disease,allergy,asthma,carcinoma,cancer,ischemia,cold sore,pain,cyanosis,edema

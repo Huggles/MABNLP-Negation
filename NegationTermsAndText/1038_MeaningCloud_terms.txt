@@ -1,0 +1,1 @@
+cellulitis,disease,obesity,infectious disease,hypertension,diabetes,scar,apnea,anemia,complaint,hypercholesterolemia,cold sore,edema,osteomyelitis,fracture,thrombosis,disorder,pain

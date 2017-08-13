@@ -1,0 +1,1 @@
+pneumonia,diabetes,pain,pulmonary edema,heart disease,disease,hypertension,fever,nausea,hernia,hernia,ischemia,colitis,edema,cholelithiasis,infection,allergy

@@ -1,0 +1,2 @@
+ALLERGY,peripheral neuropathy,baseline chest pain,hypertension,chest pain,coronary artery disease,Chest Pain
+ID/Dx,Infections,IDDM,hypercholesterolemia,Hyperlipidemia

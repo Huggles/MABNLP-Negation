@@ -1,0 +1,2 @@
+chest pain,pt reports h/o melena,emphysema,chronic obstructive pulmonary disease,also c/o melena,sick sinus syndrome,ALLERGY,pain,renal
+insufficiency,gout,diabetes mellitus,obesity,L strabismus,chronic renal dysfunction,Infections,increased fatigue

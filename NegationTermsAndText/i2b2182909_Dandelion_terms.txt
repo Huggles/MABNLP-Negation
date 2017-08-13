@@ -1,0 +1,5 @@
+congestive heart failure,atrial flutter,hypertension,non-insulin dependent diabetes
+mellitus,hypercholesterolemia,hypothyroidism,ischemic cardiomyopathy,ischemic
+cardiomyopathy,ventricular tachycardia,amiodarone,hyperthyroidism,PTU,mitral regurgitation,caffeine,coronary artery
+disease,dyslipidemia,benign prostatic hypertrophy,degenerative joint disease,allergies,allergy,morphine,tetanus toxoid,myocardial infarction,age,bruits,mitral
+regurgitation,Digoxin,Digoxin,Digoxin,heparin,stenosis,thrombosis,Coumadin,cardiomyopathy,Amiodarone,Captopril,clonazepam,Klonopin,Digoxin,Lasix,glipizide,Lopressor,Coumadin,Simvastatin,isosorbide , mononitrate

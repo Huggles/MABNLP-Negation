@@ -1,0 +1,1 @@
+pain,angina,anxiety,diverticulosis,edema,allergy,insomnia,hypercholesterolemia,infection,hypertension,arthritis,disease,osteoarthritis

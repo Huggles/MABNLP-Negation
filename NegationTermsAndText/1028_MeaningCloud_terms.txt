@@ -1,0 +1,1 @@
+disease,diabetes,edema,gout,hypertension,pain,stress,nephritis,anemia,anxiety,complaint,nephrosis,fracture,allergy,obesity,cold sore,cyanosis,attack,alkalosis,thrombosis,nausea,constipation

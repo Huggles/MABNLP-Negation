@@ -1,0 +1,1 @@
+myocardial infarction,pain,pulmonary edema,disease,nausea,hypertension,allergy,eruption,ischemia,anaphylaxis,tumor,angina,arrhythmia,aneurysm,depression

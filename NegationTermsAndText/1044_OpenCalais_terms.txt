@@ -1,0 +1,6 @@
+ALLERGY,RV enlargement.no pericardial
+effusion,gout,AVNRT,chronic kidney disease,hypocalcemia , renal failure,cardiomyopathy,chest pain,pleuritic chest pain,hypocalcemia,structural heart disease,morbid obesity
+ALLERGIES,supraventricular tachycardia,h/o
+tachyarrhythmia,shortness of breath,hives,high blood pressure,sickle cell trait,renal failure,narrow complex tachycardia,Infections,LVH,diastolic dysfunction,foot pain,anemia,e/o diastolic
+dysfunction,Treatment/Stay
+Supraventricular tachycardia

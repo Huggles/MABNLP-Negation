@@ -1,0 +1,1 @@
+disease,angina,myocardial infarction,pain,diabetes,radiculopathy,depression,hypertrophy,allergy,eruption,cyanosis,edema,hypertension

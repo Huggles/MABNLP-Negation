@@ -1,0 +1,3 @@
+coronary artery disease,hypertriglyceridemia,gastroesophageal reflux disease,hypertension,coronary artery
+disease,chf,dobutamine,asystole,angina,upper respiratory infection,unstable angina,hyperlipidemia,focal/segmental
+glomerulosclerosis,chronic renal insufficiency,diabetes mellitus,Lisinopril,Lopressor,Ecotrin,simvastatin,Prilosec,allopurinol,allergies,allergic,Naprosyn,bruit,s4,s3,obese,mi,borderline,ischemia,heparin,aspirin,vasospasm,Isordil,nifedipine,hematoma,Allopurinol,Isordil,Lopressor,Prilosec,Plavix

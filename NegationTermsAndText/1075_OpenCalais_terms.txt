@@ -1,0 +1,2 @@
+pneumonia,hypertension,Indigestion,copd,Persistent back pain,severe asthma/COPD,chronic obstructive pulmonary disease,M.D. POSSIBLE ALLERGY,Treatment/Stay
+hypertension,ALLERGY,Pain,gerd,w/ recurrent pseudomonas pneumonia,gastroesophageal reflux disease,Infections,Wheezing

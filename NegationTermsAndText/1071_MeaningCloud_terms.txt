@@ -1,0 +1,1 @@
+myocardial infarction,disease,pain,hypertension,allergy,edema,hypercholesterolemia,nephrolithiasis,aneurysm,cyst,infection,constipation,tetanus

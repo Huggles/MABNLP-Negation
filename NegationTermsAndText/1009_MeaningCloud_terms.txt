@@ -1,0 +1,1 @@
+pain,myocardial infarction,angina,disease,lesion,scar,hypertension,hypercholesterolemia,diabetes,allergy,ischemia,aneurysm

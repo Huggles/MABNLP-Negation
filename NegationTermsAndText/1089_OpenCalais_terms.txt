@@ -1,0 +1,2 @@
+Treatment/Stay
+Osteoarthritis,Hypertension,Headache,ALLERGY,fever,Pain,MS,Infections

@@ -1,0 +1,5 @@
+asthma,pneumonia,cardiac disease,myocardial infarction,angina,Proventil,inability to
+sleep,inability to sleep,Lasix,Lasix,Verapamil,left bundle-branch block,drug allergies,Meclizine,Proventil,oxazepam,hydrochlorothiazide,Flexeril,s3,s4,scar,hepatosplenomegaly,left
+bundle-branch block,congestive
+heart failure,myocardial
+infarction,chest pain,supraventricular tachycardia,injury,ischemia,tricuspid regurgitation,Captopril,Digoxin,Isordil,Lasix,congestive heart failure,Proventil,aspirin,Flexeril,Digoxin,Lasix,Isordil,Serax,Lisinopril

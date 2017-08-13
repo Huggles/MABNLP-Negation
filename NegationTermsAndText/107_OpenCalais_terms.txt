@@ -1,0 +1,2 @@
+ALLERGY,thyroglossal duct cyst,hyperkalemia,congestive heart failure,chest pain,h/o syphilis,NIDDM,hypercalcemia,coronary artery
+disease,end stage renal disease,dizziness,chest pains,Constipation,ESRD,Infections,LVH,hyperlipidemia

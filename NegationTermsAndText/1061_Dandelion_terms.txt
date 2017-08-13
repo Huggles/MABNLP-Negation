@@ -1,0 +1,4 @@
+insulin dependent
+diabetes mellitus,unstable angina,depressions,aspirin,Lopressor,Heparin,Adenosine,ischemia,left ventricular hypertrophy,coronary artery disease,mitral regurgitation,aortic
+stenosis,tricuspid regurgitation,pericardial effusion,hypertension,hypercholesterolemia,peripheral
+vascular disease,drug allergies,Lisinopril,Zocor,NPH,Humulin,regular insulin,incision,Keflex,ibuprofen,NPH,Humulin,Zocor,Atenolol,Lisinopril,Keflex,wound infection,torsemide

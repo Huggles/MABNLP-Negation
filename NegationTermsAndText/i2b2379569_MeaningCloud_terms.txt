@@ -1,0 +1,1 @@
+pain,allergy,apnea,diabetes,asthma,obesity,infection,migraine,eruption,edema,insomnia

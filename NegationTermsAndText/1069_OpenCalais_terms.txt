@@ -1,0 +1,6 @@
+syncope
+DDx,RUQ scar,chest pain,obstructive sleep apnea,arrythmia,ischemic heart disease,degenerative joint
+disease,HD-related
+hypotension,apparent syncopal episode,arrythmia while,PROBABLE allergy,non-cardiac syncope,productive cough,obesity,Echo-mod LVH,mild concentric LVH,hypoglycemia,Infections,arrhythmia,right PICA,obesity
+hypoventilation,WMA Anemia,h/o ESRD,ESRD,Candidiasis,diabetes,Wallenberg's syndrome,ALLERGY,nephrotic
+syndrome,Pain,pt's differential included arrythmia,Coronary artery disease,infection,iron-deficiency anemia,COUGH,proper arrhythmia,anemia,hypercholesterolemia,lightheadedness,DJD nephrotic syndrome,morbid obesity

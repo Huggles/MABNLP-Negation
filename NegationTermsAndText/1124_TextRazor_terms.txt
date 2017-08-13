@@ -1,0 +1,1 @@
+infections,pain,diverticulosis,anxiety,thyroid nodule,stent,hyperlipidemia,murmur,pedal edema,chest pain,hypercholesterolemia,shortness of breath,htn,osteoarthritis,coronary artery disease,cabg,unstable angina,angina,gerd,allergy,insomnia,arthritis,nitroglycerin,heparin,hypertension,reflux,nodule

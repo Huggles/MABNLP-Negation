@@ -1,0 +1,4 @@
+loss of consciousness,tumor,ALLERGIES,congestive heart failure,PRESYNCOPE,hypertension,chest pain,headache,paroxysmal
+nocturnal dyspnea,shortness
+of breath,mitral regurgitation,pulmonary vascular redistribution,nausea,anaphylaxis,cardiomegaly,vomiting,pain,present illness,myocardial infarction,pulmonary
+edema,intra-atrial septal aneurysm,coronary artery disease,angina,myocardial infarctions,OF THE PRESENT ILLNESS,thrombus,dizziness,leg pains,back pain

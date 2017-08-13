@@ -1,0 +1,1 @@
+HBV,HCV,asthma,allergy,hypertension,depression,glaucoma,infection,diabetes,apnea,edema,hives,pneumonia,disease

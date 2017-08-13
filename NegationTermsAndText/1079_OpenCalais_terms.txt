@@ -1,0 +1,6 @@
+glaucoma,congestive heart
+failure,Allergies,hypertension,COPD,Bilateral lower lobe pneumonia,hepatitis C,hepatitis
+B,cardiomegaly,pulmonary hypertension,ALLERGY,fever,productive cough,sleep
+apnea,diabetes
+mellitus,Treatment/Stay
+asthma,h/o asthma,depression,given lung disease,Infections,wheezing,pulmonary htn,asthma

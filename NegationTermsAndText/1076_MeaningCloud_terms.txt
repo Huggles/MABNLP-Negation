@@ -1,0 +1,1 @@
+pneumonia,allergy,attention deficit disorder,hypothyroidism,disease,pain,infection,disorder,hypertension,stress,flu,fever

@@ -1,0 +1,1 @@
+lesion,cellulitis,pain,angina,infection,disease,stress,allergy,fever,depression,nausea,polyp,osteoarthritis,eruption,Alzheimer,scar,edema,ischemia

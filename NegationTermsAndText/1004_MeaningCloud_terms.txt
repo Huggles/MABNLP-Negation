@@ -1,0 +1,1 @@
+asthma,anemia,hypothyroidism,high cholesterol,obesity,migraine,gout,ischemia,pain,allergy,cyst,infection,hypertension,edema,apnea

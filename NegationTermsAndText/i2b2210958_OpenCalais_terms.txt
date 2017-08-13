@@ -1,0 +1,3 @@
+charcot joint,Treatment/Stay
+diabetes,hypertension,atopic dermatitis,dermatitis,urinary
+tract infection,cellulitis,osteomyelitis,Diabetic foot ulcer,mitral valve prolapse,diabetes mellitus,obesity,diabetic foot,Infections,R foot ulcer,recurrent cellulitis,rash,infectious disease

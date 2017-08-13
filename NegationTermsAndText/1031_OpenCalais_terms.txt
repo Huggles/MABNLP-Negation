@@ -1,0 +1,3 @@
+Pain,congestive heart failure,valvular heart
+disease,bundle branch block,coronary artery disease,Subsequent pocket infection,Infections,cardilogist
+ALLERGY

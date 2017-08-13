@@ -1,0 +1,1 @@
+disease,diabetic retinopathy,myocardial infarction,pain,cellulitis,diabetes,ischemia,hypercholesterolemia,cyst,schizophrenia,neuropathy,lesion,hypothyroidism,cyanosis,hypertension

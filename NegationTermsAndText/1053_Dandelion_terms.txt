@@ -1,0 +1,3 @@
+chronic obstructive pulmonary disease,change,aspiration,copd,morbid obesity,dislocations,schizoaffective disorder,type 2 diabetes,insulin therapy,coronary artery
+disease,Combivent,prednisone,lactulose,Lasix,Mepron,Colace,Ultram,Cardizem,vitamin
+C,Depakene,Celexa,Lopressor,aspirin,Captopril,Clozaril,Reglan,Protonix,Singulair,Tylenol,Flovent,allergies,Penicillin,obese,bruises,erythematous,fit,aspiration pneumonia,recurrent pneumonia,Tylenol,albuterol,vitamin C,Captopril,Cardizem,Colace,Lasix,NPH insulin,NPH insulin,Reglan,Lopressor,oxazepam,insomnia,Depakene,Clozaril,Ultram,Mepron,Flovent,Celexa,Singulair,Nexium,DuoNeb,Novolog

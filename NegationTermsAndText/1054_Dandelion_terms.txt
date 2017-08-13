@@ -1,0 +1,3 @@
+angina,coronary artery disease,anginal,age,stenosis,stenoses,dissection,aspirin,Lisinopril,Atenolol,enoxaparin,radiculopathy,inguinal
+hernia,benign prostatic hypertrophy,Lisinopril,Atenolol,allergies,penicillin,Heparin,change,unstable angina,coronary artery
+disease,myocardial infarction,Heparin,simvastatin,Heparin,Heparin,cervical radiculopathy,gastrointestinal distress,Heparin,Captopril,Lopressor,Prilosec,diabetes,Atenolol,Lisinopril

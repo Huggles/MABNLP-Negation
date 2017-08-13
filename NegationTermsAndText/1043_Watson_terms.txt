@@ -1,0 +1,1 @@
+prednisone,Dobutamine,infarction,hyperglycemia,ventricular tachycardia,Nifedipine,atenolol,bundle branch block,DIABETES,cardiogenic shock,ILLNESS,ALLERGIES,constipation,hypomania,immunosuppression,bacteremia,regurgitation,digoxin,captopril,penicillin,Nystatin,hypomania.

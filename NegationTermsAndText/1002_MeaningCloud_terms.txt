@@ -1,0 +1,1 @@
+lesion,disease,pain,hypertension,diabetes,angina,allergy,hernia,hernia,hypercholesterolemia,depression,cold sore,edema,nausea,hematoma

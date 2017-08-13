@@ -1,0 +1,1 @@
+VASOSPASM,ANGINA,Coronary artery disease,Lisinopril,simvastatin,GOUT,nifedipine,PROTEINURIA,HYPERTRIGLYCERIDEMIA,HYPERTENSION,disease,renal insufficiency,REFLUX,restenosis,ILLNESS,diarrhea,paroxysmal nocturnal dyspnea,diabetes,productivecough,Allopurinol,allopurinol,Hyperlipidemia,headache,angina.,heparin,aspirin

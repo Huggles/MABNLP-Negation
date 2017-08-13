@@ -1,0 +1,1 @@
+pain,hypertension,infection,disease,hypercholesterolemia,allergy,neuropathy,ischemia

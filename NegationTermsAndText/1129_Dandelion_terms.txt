@@ -1,0 +1,2 @@
+atherosclerotic,coronary artery
+disease,peripheral vascular disease,glucose intolerance,hypertension,diabetes mellitus,coronary artery disease,angina,Cardizem,Percocet,Digoxin,Trental,Ecotrin,diabetic

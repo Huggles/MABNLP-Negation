@@ -1,0 +1,1 @@
+osteoarthritis,pain,myocardial infarction,allergy,apnea,aneurysm,disease,adenopathy,diabetes

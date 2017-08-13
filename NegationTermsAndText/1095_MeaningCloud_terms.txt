@@ -1,0 +1,1 @@
+pain,infection,fever,diabetes,hypertension,alcohol abuse,allergy,cold sore,disease,pneumonia,osteoarthritis,depression,nephrolithiasis,anemia,edema,gout,hypoglycemia,hypotension

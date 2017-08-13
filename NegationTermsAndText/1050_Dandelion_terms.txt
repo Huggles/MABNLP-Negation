@@ -1,0 +1,5 @@
+oral herpes,ischemic
+cardiomyopathy,congestive heart failure,augmentation,left bundle-branch block,left
+ventricular hypertrophy,ectopic,Quinaglute,hypokinetic,stenosis,atypical pneumonia,congestive
+heart failure,Lasix,Zaroxolyn,Captopril,Quinaglute,Lasix,Captopril,Lasix,Zaroxolyn,left ventricular dysfunction,thrombus,tricuspid regurgitation,mitral
+regurgitation,hepatitis,coccidiomycosis,cmv,borderline,Dobutamine,high,Cyclosporin,Cyclosporin,Cyclosporin,Persantine,Clotrimazole,Bactrim,Procardia XL,Cyclosporin,Carafate,Prednisone,Imuran,Restoril,Acyclovir

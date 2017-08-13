@@ -1,0 +1,3 @@
+coronary artery disease,unstable angina,angina,chest pain,Inderal,Aspirin,myocardial
+infarction,depressions,hypertension,Aspirin,Diltiazem,Inderal,Xanax,allergies,Penicillin,coronary
+artery disease,s4,hepatosplenomegaly,bruit,congestive heart failure,Ecotrin,Inderal,Bactrim

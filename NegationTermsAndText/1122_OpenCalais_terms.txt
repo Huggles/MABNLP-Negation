@@ -1,0 +1,10 @@
+mod LVH,abdominal
+pain,Treatment/Stay
+Diabetes mellitus,aspiration pneumonia,pneumonia,Hypertension,chest pain,Cholelithiasis,atherosclerosis,shortness of
+breath,Abdominal pain
+HPI,chills,bilateral aspiration pneumonia,nausea,diastolic dysfunction,diabetes,bilateral lower lobe
+pneumonias,cardiomegaly,fever,melena,Cdiff colitis,pain,chronic kidney
+disease,angiectasis/lymphangiectasis,purpura/petechiae,chronic
+kindey disease,small-bowel obstruction w/ hernia,pulmonary edema,right lower lobe
+pneumonia,Coronary artery disease,diarrhea,Atrial fibrillation,diastolic heart failure,cough,JBHMC Coumadin Clinic
+ALLERGY,Infections,rheumatic heart disease

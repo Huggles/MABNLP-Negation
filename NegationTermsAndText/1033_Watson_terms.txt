@@ -1,0 +1,1 @@
+infarction,Coronary artery disease,ACUTE MYOCARDIAL INFARCTION,COPD,depression,prednisone,aspirin,pulmonary edema,febrile,GERD,lobe pneumonia,erythema,insomnia,hepatosplenomegaly,pneumonia,dyspnea,trazodone,ACE inhibitor,levofloxacin,anxiety,lisinopril,atenolol

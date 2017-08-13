@@ -1,0 +1,1 @@
+pneumonia,pain,anxiety,hypertension,disease,allergy,infection,asthma,indigestion,constipation

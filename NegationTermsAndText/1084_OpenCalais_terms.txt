@@ -1,0 +1,5 @@
+ALLERGY,h/o dysphagia,esophageal spasm,dysarthria,chest pain,chest tightness,chest tightness
+HPI,transient
+upper body flushing,dysphagia,******
+COMAS,R/O myocardial infarction,intermittent choking w/,Infections,herniated
+disc,hypercholesterolemia

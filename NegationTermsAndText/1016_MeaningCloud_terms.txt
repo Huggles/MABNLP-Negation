@@ -1,0 +1,1 @@
+pain,angina,disease,gout,ischemia,hypertension,infection,fever,nausea,diabetes,allergy,edema,cyanosis,depression,hematoma

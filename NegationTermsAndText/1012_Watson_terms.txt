@@ -1,0 +1,1 @@
+CELLULITIS,levofloxacin,vancomycin,aspirin,diltiazem,ALLERGIES,Infectious disease,urinary tract infection,dyslipidemia,ILLNESS,metformin,nephrolithiasis,hypertension,Metformin,atorvastatin,oxycodone

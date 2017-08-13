@@ -1,0 +1,1 @@
+pain,stress,ischemia,depression,myocardial infarction,angina,edema,lesion,nausea,allergy,infection,scar,complaint,cancer,aneurysm,hypertrophy,hypercholesterolemia

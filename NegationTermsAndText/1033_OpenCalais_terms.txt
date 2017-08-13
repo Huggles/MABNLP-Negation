@@ -1,0 +1,3 @@
+PDA,pain,inferior myocardial infarction,GERD,pneumonia,myocardial infarction,concurrent COPD,TB,diabetes mellitus,heart failure,COPD,chest pain,cerebral artery aneurysm,pulmonary edema,Coronary artery disease,diffuse wheezing,dyspnea,p.o. b.i.d. p.r.n. insomnia,chronic obstructive pulmonary disease,probable right upper
+lobe pneumonia,status post cerebrovascular
+accident,cough,Rheumatoid arthritis,gastroesophageal reflux disease,depression,diabetes,ACUTE MYOCARDIAL INFARCTION

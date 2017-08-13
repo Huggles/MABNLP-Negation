@@ -1,0 +1,5 @@
+PROTEINURIA,significant spasm,PDA,ALLERGIES,degree AV block,CORONARY ARTERY VASOSPASM,HYPERTENSION,chest pain,headache,shortness of breath,chills,HYPERTRIGLYCERIDEMIA,intermittent
+paroxysmal nocturnal dyspnea,rest angina,tab SL p.r.n. chest pain,nausea,Chronic renal insufficiency,ST depression,upper respiratory infection,Hyperlipidemia,typical
+angina,OF PRESENT ILLNESS,vomiting,pain,productive
+cough,GOUT,UNSTABLE ANGINA,fatigue,diabetes mellitus,asystole,CORONARY ARTERY DISEASE,diarrhea,spasm,GASTROESOPHAGEAL REFLUX DISEASE,patient felt chest pain,renal
+dysfunction

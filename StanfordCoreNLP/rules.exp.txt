@@ -1,0 +1,36 @@
+
+$NEGATION = "/No|Not|None|No one|Nobody|Nothing|Neither|Nowhere|Never/"
+
+
+
+$HEALTHCONDITION = "/Cholera due to Vibrio cholerae 01/"
+
+
+$MEASUREMENTREGEX = "/[0-9]{0,}[.\\/]{0,1}[0-9]{1,}/"
+$UNITREGEX = "/[a-zA-Z]{0,3}[\\/]{0,1}[a-zA-Z]{1,3}/"
+$MASUREMENTUNITREGEX = "/[0-9]{0,}[.\\/]{0,1}[0-9]{1,}[a-zA-Z]{0,3}[\\/]{0,1}[a-zA-Z]{1,3}/"
+
+
+{ 
+	ruleType: "tokens",
+	pattern: ([{ word : $NEGATION }][{ word: $HEALTHCONDITION }]), 
+	result: "SafeMedicalCondition"
+}
+{ 
+	ruleType: "tokens",
+	pattern: ([{ word: $HEALTHCONDITION }]), 
+	result: "MedicalCondition"
+}
+{
+	ruleType: "tokens",
+	pattern: (($MEASUREMENTREGEX []{0,1} $UNITREGEX) | $MASUREMENTUNITREGEX) ,
+	result: "UnitMeasurement"
+}
+{
+	ruleType: "composite",
+	pattern: ( [{word:"Simvastatines"}][{ner: UnitMeasurement}]) ,
+	result: "DrugQuantity"
+}
+
+
+

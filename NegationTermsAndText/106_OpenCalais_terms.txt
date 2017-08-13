@@ -1,0 +1,4 @@
+allergy,OF PRESENT ILLNESS,ALLERGIES,congestive heart failure,myocardial
+infarction,UNSTABLE ANGINA,recurrent
+typical angina,hypertension,intractable angina,chest pain,coronary
+artery disease,angina,shortness of breath,rash,recurrent chest pain

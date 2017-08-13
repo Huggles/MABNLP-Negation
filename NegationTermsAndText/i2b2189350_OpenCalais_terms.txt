@@ -1,0 +1,8 @@
+restrictive lung disease,mild respiratory distress,pains in the center of her chest,congestive heart failure,hypertension,constant chest pain,mild congestive heart failure,chest pain,paroxysmal nocturnal dyspnea,shortness of breath,hives,q.p.m.
+ALLERGIES,diffuse
+small vessel disease,diastolic
+dysfunction,diabetes,pulmonary artery systolic pressure,diffuse three vessel disease,left bundle branch block,pain,UNSTABLE ANGINA,myocardial
+infarction,showed mild pulmonary
+edema,obesity,idiopathic drop attacks,pulmonary edema,coronary artery disease,vessel
+disease,OF THE PRESENT ILLNESS,R/O MYOCARDIAL INFARCTION,rash and intravenous contrast dye,interstitial
+lung disease,pulmonary consultation

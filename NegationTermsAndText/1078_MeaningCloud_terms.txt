@@ -1,0 +1,1 @@
+myocardial infarction,disease,cold sore,edema,hypercholesterolemia,hypertension,infarct,diabetes,aphasia

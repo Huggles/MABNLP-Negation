@@ -1,0 +1,1 @@
+myocardial infarction,pain,fracture,complaint,hypertension,infection,hematoma,nausea,fever,cold sore,edema,diabetes

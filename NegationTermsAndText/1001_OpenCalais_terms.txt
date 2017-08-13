@@ -1,0 +1,4 @@
+GLAUCOMA,CONGESTIVE HEART FAILURE,ALLERGIES,renal artery stenosis,FLASH PULMONARY EDEMA,HYPERTENSION,rash and adhesive tape,chest pain,pulmonary examination,paroxysmal nocturnal
+dyspnea,iron deficiency anemia,NON-INSULIN-DEPENDENT DIABETES MELLITUS,shortness of breath,MITRAL REGURGITATION,urinary tract infection,recurrent
+pulmonary edema requiring intubation,p.o. q.h.s. p.r.n. insomnia,recurrent pneumonia,CHRONIC RENAL INSUFFICIENCY,single vessel disease,stomach cancer,OF PRESENT ILLNESS,myocardial infarction,diabetes mellitus,lymphadenopathy,pulmonary
+edema,Hypercalcemia,CORONARY ARTERY DISEASE,alkalized syndrome,pyelonephritis,diffuse distal LAD disease,dizziness,renal failure,cough,Depression,LVH,BREAST CANCER,ANEMIA,HYPERCHOLESTEROLEMIA,OF DEPRESSION,p.r.n. chest pain

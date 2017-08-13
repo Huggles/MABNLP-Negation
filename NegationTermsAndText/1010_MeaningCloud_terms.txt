@@ -1,0 +1,1 @@
+asthma,disease,pain,apnea,obesity,arrhythmia,hypertension,nausea,bronchitis,allergy,rhinitis,eruption,cyst,lesion,edema,infection,fever

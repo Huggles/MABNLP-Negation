@@ -1,0 +1,1 @@
+warfarin,atenolol,omeprazole,heparin,colchicine,atorvastatin,allopurinol,glucose,heart attack,stroke,aphasia,gastroesophageal reflux disease,stenosis,acalculia,hypertension,diabetes mellitus type 2,apraxia,embolism,hypercholesterolemia,coronary artery disease,peripheral edema,sopite syndrome,facial nerve paralysis

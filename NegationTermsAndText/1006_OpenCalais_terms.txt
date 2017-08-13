@@ -1,0 +1,6 @@
+surgical scar,ALLERGIES,congestive heart failure,pneumonia,nonsustained supraventricular tachycardia,orthostasis,headaches,hypertension,small injury,chest pain,left
+bundle-branch block,bundle-branch block,shortness of breath,trace tricuspid regurgitation,chills,drug allergies,nausea,vertigo,diabetes,OF PRESENT ILLNESS,vomiting,myocardial
+infarction,prior myocardial infarction,intermittent nonproductive cough,pulmonary edema,cardiac disease,supraventricular tachycardia,angina,positive pulmonary vascular
+redistribution,onset congestive
+heart failure,light
+headedness,p.r.n. chest pain,asthma

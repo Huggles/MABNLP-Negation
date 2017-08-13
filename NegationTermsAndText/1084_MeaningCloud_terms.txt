@@ -1,0 +1,1 @@
+myocardial infarction,pain,angina,infection,hypercholesterolemia,stress,ischemia,allergy

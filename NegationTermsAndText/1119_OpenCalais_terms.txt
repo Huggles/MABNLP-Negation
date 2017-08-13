@@ -1,0 +1,5 @@
+days worsening cellulitis,Treatment/Stay
+diabetes,hypertension,atopic dermatitis,dermatitis,urinary tract infection,cellulitis,osteomyelitis,M.D. POSSIBLE ALLERGY,mitral valve
+prolapse,Erythema,ALLERGY,left LE cellulitis,diabetes mellitus,obesity,V. No
+CP/SOB/dysuria/diarrhea,cellulitis , osteomyelitis
+OTHER DIAGNOSIS;Conditions,Infections,recurrent cellulitis,infectious disease,female h/o NIDDM,morbid obesity

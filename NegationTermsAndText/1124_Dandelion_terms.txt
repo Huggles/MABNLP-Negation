@@ -1,0 +1,2 @@
+ASPIRIN,ATENOLOL,LASIX,FUROSEMIDE,TRAZODONE,insomnia,ZOCOR,SIMVASTATIN,COZAAR,LOSARTAN,NEXIUM,ESOMEPRAZOLE,fat,allergy,Amlodipine,infections,hypertension,angina,arthritis,gerd,esophageal
+reflux,coronary artery disease,osteoarthritis,diverticulosis,hypercholesterolemia,hyperlipidemia,Adenosine,stenosed,chest pain,mi,Atenolol,Imdur,heparin,unstable angina,defects,dissection,thyroid nodule

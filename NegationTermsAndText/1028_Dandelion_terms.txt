@@ -1,0 +1,7 @@
+yellow nail syndrome,hypertension,chronic obstructive pulmonary disease,diabetes mellitus,chronic renal insufficiency,ms,diabetes,pericardial
+effusion,congestive heart
+failure,cor pulmonale,pericardial effusion,restrictive cardiomyopathy,pleural effusion,hydronephrosis,tb,lymphedema,high,hyperkalemia,Lasix,Albuterol,Atrovent,Lasix,anemia,yellow
+nail syndrome,obesity,acute
+interstitial nephritis,Levaquin,peptic ulcer
+disease,reflux,hematuria,Colchicine,Zestril,Glyburide,Aspirin,Colace,Lasix,Atrovent,Zantac,Allopurinol,Xanax,Percocet,Albuterol,allergies,Levofloxacin,acute interstitial
+nephritis,age,bruits,obese,hepatosplenomegaly,dts,effusion,deep venous thrombosis,failure,Lasix,Diuril,atelectasis,nodular,malignancies,interstitial pneumonitis,bronchiolitis,doxycycline,Lasix,Diuril,atrial fibrillation,Diltiazem,Diltiazem,dobutamine,ischemic,defects,Lasix,type ii diabetes,infected,Allopurinol,Aspirin,Colchicine,Diltiazem,Colace,Lasix,Glyburide,Atrovent,Lisinopril,Percocet,Ranitidine,Atrovent

@@ -1,0 +1,1 @@
+hypoglycemia,pain,ischemia,disease,infection,diabetes,hypertension,nausea,convulsion,glaucoma,allergy,depression,hematoma

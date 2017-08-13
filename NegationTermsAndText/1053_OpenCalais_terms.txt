@@ -1,0 +1,5 @@
+abdominal pain,Aspiration pneumonia,ALLERGIES,chest pain,shortness of
+breath,chills,CHRONIC OBSTRUCTIVE PULMONARY DISEASE,schizoaffective disorder,recurrent pneumonia,diabetes,fever,OF PRESENT ILLNESS,pain,severe COPD,insulin dependent diabetes,p.r.n.
+constipation,PR daily p.r.n. constipation,poor pulmonary function,G
+q.h.s. p.r.n. insomnia,coronary artery
+disease,diarrhea,irritation,constipation,wheezing,morbid obesity

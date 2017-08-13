@@ -1,0 +1,1 @@
+pain,heart disease,gout,allergy,edema,obesity,anemia,fistula,convulsion,disease,infection

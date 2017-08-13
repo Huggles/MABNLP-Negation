@@ -1,0 +1,1 @@
+pain,disease,myocardial infarction,pulmonary edema,diabetes,hypertension,edema,hives,allergy,attack,angina,ischemia,obesity

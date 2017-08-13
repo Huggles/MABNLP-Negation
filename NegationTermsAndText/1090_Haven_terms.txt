@@ -1,0 +1,1 @@
+warfarin,heparin,trimethoprim/sulfamethoxazole,ibuprofen,ceftizoxime,glucose,dyspnea,venous thrombosis,embolism,pulmonary embolism,chest pain,urinary tract infection,tachycardia,pleurisy,uterine fibroid,dysuria,infection,pain,atelectasis,costochondritis,menorrhagia,obesity,asthma,deep vein thrombosis,sinus tachycardia,thrombosis,wound,systemic lupus erythematosus

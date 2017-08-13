@@ -1,0 +1,1 @@
+polyp,pain,disease,allergy,hypertension,hypercholesterolemia,obesity,inflammation,lesion,infection,complaint,nausea,cold sore

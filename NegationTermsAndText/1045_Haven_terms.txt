@@ -1,0 +1,1 @@
+metoprolol,procainamide,digoxin,simvastatin,aspirin,insulin,verapamil,furosemide,nizatidine,atrial,tachycardia,atrial fibrillation,hypertension,heart attack,coronary artery disease,diabetes mellitus type 1,gout,diaphoresis,supraventricular tachycardia,bruit,angina pectoris,stenosis,allergy,drug allergy,cyanosis,lymphadenopathy

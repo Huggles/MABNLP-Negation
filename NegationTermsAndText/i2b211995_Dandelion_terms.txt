@@ -1,0 +1,3 @@
+peripheral vascular
+disease,ischemic,diabetic,peripheral vascular disease,amputation,coronary artery
+disease,cataracts,wound,Colace,regular insulin,Isordil,Zestril,Lopressor,Axid,Ofloxacin,Ecotrin,Vancomycin,allergy,codeine,Heparin,stenosis,urokinase,infection,Heparin,Coumadin,Vancomycin,Ofloxacin,Coumadin,Percocet,Colace,NPH,Isordil,Zestril,Lopressor,Axid

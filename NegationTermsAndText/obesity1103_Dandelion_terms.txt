@@ -1,0 +1,1 @@
+ASPIRIN,allergy,Aspirin,LISINOPRIL,LISINOPRIL,PLAVIX,CLOPIDOGREL,ATENOLOL,LIPITOR,ATORVASTATIN,GLYBURIDE,fat,pcp,Penicillins,AZITHROMYCIN,Aspirin,atypical,infections,unstable angina,asthma,hepatitis,diverticuli,scar,defects,thrombosis,pvd,infectious,pericarditis,oxycodone,infection,heart disease,chest pain,PCP

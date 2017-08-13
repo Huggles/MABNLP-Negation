@@ -1,0 +1,4 @@
+trivial mitral valve insufficiency,anterior chest pain,ALLERGIES,hypertension,hypercholesterolemia , lower back
+pain,active cardiopulmonary disease,drug allergies,tetanus,OF PRESENT ILLNESS,pain,present illness,inferior myocardial
+infarction,myocardial infarction,CORONARY ARTERY DISEASE,infection,low back pain,cyst,constipation,nephrolithiasis,infrarenal abdominal
+aortic aneurysm

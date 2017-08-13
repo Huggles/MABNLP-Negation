@@ -1,0 +1,1 @@
+hypertension,renal disease,diabetes,neuropathy,allergy,myocardial infarction,gastritis,pericarditis,anemia,cellulitis,obesity,pain,edema,cyanosis,retinopathy,hypotension,cold sore,disease

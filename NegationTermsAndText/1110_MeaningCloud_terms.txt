@@ -1,0 +1,1 @@
+renal disease,anemia,chronic disease,schizophrenia,disease,fistula,allergy,hypertension,hypotension,scar

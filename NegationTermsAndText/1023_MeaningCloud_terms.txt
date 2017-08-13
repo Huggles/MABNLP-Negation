@@ -1,0 +1,1 @@
+disease,myocardial infarction,multiple sclerosis,pulmonary edema,pain,hypertension,allergy,complaint,anemia,cyanosis,edema,lesion,hypothyroidism

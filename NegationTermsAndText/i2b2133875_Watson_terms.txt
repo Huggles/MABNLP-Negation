@@ -1,0 +1,1 @@
+STENOSIS,ciprofloxacin,aspirin,heart block,ILLNESS,bradycardia,dyslipidemia,dyspnea,skin cancer,urinary tract infection,tachycardia,angina,presyncope,tricuspidinsufficiency,Atenolol,metformin,atrial enlargement,epinephrine,nausea,diaphoresis

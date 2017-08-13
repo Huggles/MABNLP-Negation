@@ -1,0 +1,4 @@
+coronary artery disease,diabetes mellitus,hypertension,hypercholesterolemia,hypothyroidism,vitamin b-12 deficiency,gallstone disease,urinary incontinence,cystocele,diabetes
+mellitus,postmenopausal,stable angina,ischemia,Isordil,Lopressor,Captopril,aspirin,Procardia XL,angina,urine incontinence,seizure,frozen shoulder,vitamin b 12 deficiency,drug allergies,Isordil,NPH insulin,Procardia XL,metoprolol,vitamin B 12,Captopril,lung cancer,obese,bruits,urine
+culture,urine culture,mi,depressions,stenosis,abnormality,mitral
+regurgitation,arrhythmias,ischemic,Lopressor,NPH,uti,Bactrim,Captopril,Isordil,Procardia XL,NPH insulin,Bactrim

@@ -1,0 +1,1 @@
+asthma,Prednisone,stenosis,dyspnea,COPD,Coronary artery disease,cough,Obesity,pain,Heparin,Verapamil,DVT,reflux,breast cyst,abdominal pain,bronchitis,Allergic rhinitis,paroxysmal nocturnal dyspnea,rhinorrhea,headache,ALLERGIES,respiratorydistress,Theophylline,Guanfacine,Ranitidine,Aspirin

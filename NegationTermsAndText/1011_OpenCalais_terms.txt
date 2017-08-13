@@ -1,0 +1,4 @@
+glaucoma,peripheral vascular disease,CONGESTIVE HEART FAILURE,ALLERGIES,VII deficiency,hypertension,mild
+interstitial pulmonary edema,BPH,headache,hypothyroidism,chills,lymphadenopathy , normal
+pharynx,hematuria,Urinary tract infection,Gross hematuria,nausea,premature ventricular contractions,Diabetes,mild pulmonary edema,fever,seizure,mild iron deficiency,OF PRESENT ILLNESS,vomiting,IV drug
+abuse,pulmonary edema,mild encephalopathy,coronary artery disease,cholecystectomy scar,baseline dementia,diarrhea,atrial fibrillation,hypokinesia,MS,constipation,depression,rash,anemia,lightheadedness

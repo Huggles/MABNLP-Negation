@@ -1,0 +1,7 @@
+spinal stenosis,Pulmonary exam shows,ALLERGIES,Hypertension,Disease,shingles,iron deficiency anemia,lower lobe
+pneumonia,urinary tract infection,urinary incontinence,alcohol
+abuse,diabetes,Fever,osteoarthritis,OF PRESENT ILLNESS,chronic low,pain,gout,chronic
+diarrhea,Pseudogout,pyelonephritis,infection,patient's spinal stenosis disease,perineal yeast
+infection,peptic ulcer disease,depression,hypoglycemia,back
+pain,nephrolithiasis,senile dementia,cervical
+spondylosis,hypotension

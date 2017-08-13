@@ -1,0 +1,1 @@
+pain,allergy,constipation,nausea,fever,infection

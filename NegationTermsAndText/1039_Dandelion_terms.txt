@@ -1,0 +1,7 @@
+gi bleeding,diverticulosis,myelofibrosis,mi,coronary artery disease,sick
+sinus syndrome,av block,mitral
+regurgitation,myocardial infarction,stable angina,congestive heart
+failure,inguinal hernia,age,allergies,penicillin,heparin,Atenolol,allopurinol,Flomax,infection,bruits,scar,scarring,varicosities,copd,cardiomegaly,hypotensive,aspirin,Lasix,dvt,clot,argatroban,pe,Mucomyst,effusion,change,vascular thrombosis,Argatroban,high,propofol,ischemia,sepsis,ceftazidime,gi bleed,aspiration,gi
+bleed,respiratory
+alkalosis,septic,fluconazole,Flagyl,Lasix,Lasix,Lopressor,amputation,Flomax,Flomax,Coumadin,Coumadin,Coumadin,amputations,levofloxacin,bacteremia,linezolid,pneumonia,Coumadin,Neurontin,Coumadin,neutrophilia,Lasix,PCA,Coumadin,preop,Lasix,Linezolid,Lasix,myeloproliferative disorder,wounds,redness,pcp,Tylenol,throat pain,Colace,Lasix,gentamicin,regular
+insulin,regular insulin,nystatin,simvastatin,Atrovent,Neurontin,Ambien,insomnia,Flomax,miconazole nitrate,powder,Nexium,Coumadin,Prochlorperazine

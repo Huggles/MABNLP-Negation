@@ -1,0 +1,1 @@
+edema,pain,myocardial infarction,thrombosis,diabetes,hypertension,disease,renal disease,infectious disease,pulmonary edema,constipation,allergy,fistula,anemia,syphilis,cold sore,nausea,uremia,infection

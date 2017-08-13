@@ -1,0 +1,4 @@
+gastrointestinal bleed,endstage renal disease,endstage renal
+disease,peptic
+ulcer disease,hypotensive,end-stage renal disease,ulcer,upper gi bleed,bezoar,sick sinus syndrome,hepatitis c,hypertension,paranoid schizophrenia,seizure,hypotension,anemia,Aspirin,Toprol-XL,Cardura,Renagel,Fosamax,calcitriol,B12,Risperdal,Zyprexa,Zoloft,Colace,Protonix,allergies,scar,av fistula,bruit,obese,mild
+mental retardation,high,anemia of chronic disease,B12,gi bleed,Cardura,hypertensive

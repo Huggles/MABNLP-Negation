@@ -1,0 +1,3 @@
+ALLERGY,pain,necrosis,diabetes mellitus,line sepsis,aplastic anemia,sleep disorder,Infections,minimal breakthrough pain,hypersomnolence,anemia,hemochromatosis,sepsis,Treatment/Stay
+aplastic anemia,hepatitis
+C,hepatitis B

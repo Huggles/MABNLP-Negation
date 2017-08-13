@@ -1,0 +1,1 @@
+insulin,heparin,vancomycin,metoprolol,ofloxacin,warfarin,nizatidine,urokinase,codeine,aspirin,diabetes mellitus type 1,amputation,peripheral vascular disease,hammer toe,wound,hypertension,coronary artery disease,vascular disease,pain,thrombosis,ischaemia,cataract,stenosis,allergy,infection,ulcer

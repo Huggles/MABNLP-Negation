@@ -1,0 +1,5 @@
+postoperative cardiac failure,superimposed
+thrombus,subacute left circumflex
+thrombosis,severe peripheral vascular disease,ischemic mitral regurgitation,shortness of breath,cerebrovascular accident,extensive diffuse
+disease,severe atherosclerotic disease,small nontransmural myocardial infarction,pain,cardiogenic shock,pulmonary edema,postoperative anemia,CORONARY ARTERY DISEASE,diarrhea,hypoalbuminemia,foot pain,acute renal failure,crescendo
+spontaneous angina,diffuse coronary atherosclerosis,wheezing

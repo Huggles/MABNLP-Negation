@@ -1,0 +1,1 @@
+cefpodoxime,pneumonia,ceftriaxone,hypoglycemia,diarrhea,sputum,thiamine,gabapentin,sevelamer,Loperamide,labetalol,lisinopril

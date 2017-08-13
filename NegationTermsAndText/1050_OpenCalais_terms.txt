@@ -1,0 +1,5 @@
+tremor,OF PRESENT ILLNESS,mild mitral
+regurgitation,recurrent congestive
+heart failure,congestive heart failure,mild tricuspid regurgitation,fatigue,negative hepatitis,atypical pneumonia,non-ischemic
+cardiomyopathy,left bundle-branch block,paroxysmal nocturnal dyspnea,left ventricular dysfunction,apical
+thrombus,dyspnea,recurrent frequent congestive heart failure,transient chest pain,ORAL HERPES

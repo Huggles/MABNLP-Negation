@@ -1,0 +1,3 @@
+Seizure,melena stools,OF PRESENT ILLNESS,ALLERGIES,Hemodialysis-related hypotension,Pelvic ulcer disease,chronic anemia,Hypertension,chronic disease,schizophrenia,renal disease,No known allergies,End-stage renal disease,Paranoid schizophrenia,hemodialysis and prior peptic
+ulcer disease,Mild mental retardation,Anemia,endstage renal
+disease,Sick sinus syndrome,thyroidectomy scar

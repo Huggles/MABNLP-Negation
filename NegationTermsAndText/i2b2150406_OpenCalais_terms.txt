@@ -1,0 +1,3 @@
+ALLERGIES,jaw pain,headaches,hypertension,CHEST PAIN,arm phlebitis,headache,left upper extremity compartment
+syndrome,non-insulin dependent diabetes mellitus,intracerebral hemorrhage,recurrent chest pain,hyperlipidemia,compartment syndrome,OF PRESENT ILLNESS,pain,hyperlipidemia , coronary
+artery disease,myocardial infarction,UNSTABLE ANGINA,No known drug allergies,disorder,coronary artery disease,depression

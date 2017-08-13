@@ -1,0 +1,2 @@
+AMIODARONE,NORVASC,AMLODIPINE,COLACE,DOCUSATE SODIUM,NEXIUM,ESOMEPRAZOLE,LASIX,FUROSEMIDE,LASIX,allergy,reaction,NEURONTIN,GABAPENTIN,GLIPIZIDE,GLIPIZIDE,PLAQUENIL,HYDROXYCHLOROQUINE,ISORDIL,ISOSORBIDE DINITRATE,LISINOPRIL,LISINOPRIL,LISINOPRIL,chest pain,TRAZODONE,insomnia,PCP,QUININE,Aspirin,Penicillins,infections,chf,afib,atrial fibrillation,myocardial infarction,niddm,diabetes mellitus,dvt,deep venous thrombosis,umbilical hernia,diverticulitis,pe,pulmonary embolism,third degree heart
+block,head trauma,coumadin,dvt/pe,ecchymoses

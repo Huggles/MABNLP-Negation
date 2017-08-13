@@ -1,0 +1,9 @@
+Laparotomy scar,PDA,pseudomonas,ALLERGIES,myeloproliferative disorder,COPD,mL daily p.r.n. constipation,urinary retention,right inguinal hernia,EC bacteremia,critical coronary anatomy/myocardial infarction,nausea,cardiomegaly,bradycardia,PR daily p.r.n.
+constipation,stable angina,clinical syndrome,sepsis,myelofibrosis,congestive heart
+failure,q.h.s. p.r.n. insomnia,persistent respiratory
+alkalosis,pseudomonas pneumonia,dyspnea,shortness
+of breath,t.i.d.
+p.r.n. constipation,III angina,mild-to-moderate mitral
+regurgitation,II heart failure,sick
+sinus syndrome,venous vascular thrombosis,fever,melena,OF PRESENT ILLNESS,vomiting,pain,oliguria and rising
+creatinine,intermittent AV block,coronary artery disease,infection,oliguric , profound metabolic acidosis,rash,respiratory distress

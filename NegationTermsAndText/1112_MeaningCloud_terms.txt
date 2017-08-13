@@ -1,0 +1,1 @@
+hematoma,pain,infection,anxiety,allergy,edema,hypercholesterolemia,hypertension,neuropathy,ischemia,nausea,pneumothorax,hypoglycemia

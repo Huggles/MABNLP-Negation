@@ -1,0 +1,4 @@
+ALLERGIES,congestive
+heart failure,diabetic nephropathy,Diffuse atherosclerosis,tricuspid regurgitation,gastric ulcer,showed hiatal hernia,kidney disease,duodenitis,urinary tract infection,hypoplastic/inflammatory,stroke,hip pain,improved pleural effusions,heart
+disease,Severe left hip osteoarthritis,hypoplastic and inflammatory lesions,Diabetes,ischemic colitis,rheumatic valvular disease,cardiomegaly,congestive heart failure/diuresis/renal artery disease,OF PRESENT ILLNESS,pain,numbness,fatigue,chronic kidney disease,pulmonary edema,bradycardia,hiatal hernia,atrial
+fibrillation,chronic venous stasis changes,ANEMIA

@@ -1,0 +1,6 @@
+abdominal pain,congestive heart failure,ALLERGIES,uremia,hypertension,BPH,syphilis,chest pain,disease,left neck pain,p.o. q.i.d. p.r.n. constipation,shortness of
+breath,chills,Urinary tract infection,deep
+venous thrombosis,drug allergies,nausea,stroke,diastolic dysfunction,chronic renal
+insufficiency,diabetes,Hyperlipidemia,cardiomegaly,OF PRESENT ILLNESS,vomiting,fatigue,myocardial infarction,Diabetes mellitus,significant azotemia,pulmonary edema,Coronary artery disease,slow
+asterixis,sharp left-sided
+chest pain,diarrhea,asterixis,RENAL FAILURE,End-stage renal disease,constipation,Infectious Disease,Acute renal failure,Anemia

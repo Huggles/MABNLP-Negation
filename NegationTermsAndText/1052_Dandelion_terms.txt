@@ -1,0 +1,3 @@
+myocardial
+infarction,atrial fibrillation,hypertension,adult onset diabetes,hypercholesterolemia,postmenopausal,estrogen
+replacement therapy,angina,left ventricular hypertrophy,tricuspid regurgitation,Aspirin,Dobutamine,depressions,ischemia,anginal,neuropathy,retinopathy,degenerative joint disease,gastroesophageal reflux,Atenolol,Axid,Aspirin,Coumadin,Diltiazem,Lisinopril,Lasix,NPH,drug allergies,bruits,irregular,obese,scar,Digoxin,borderline,cardiomegaly,myocardial infarction,Heparin,unstable angina,syndrome x,Aspirin,Lasix,NPH,Lisinopril,Omeprazole,Coumadin,Diltiazem

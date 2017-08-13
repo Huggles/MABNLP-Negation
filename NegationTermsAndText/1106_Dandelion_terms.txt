@@ -1,0 +1,5 @@
+ventricular tachycardia,ventricular fibrillation,ischemic cardiomyopathy,aortic stenosis,lidocaine,amiodarone,ischemia,arrhythmias,congestive heart failure,aspiration pneumonia,coronary artery disease,paroxysmal atrial fibrillation,diabetes,chronic renal
+insufficiency,hypothyroidism,Lasix,Coumadin,Lopressor,Lorazepam,Colace,Prilosec,drug allergies,infection,cardiac
+ischemia,aspirin,Plavix,Lasix,Lasix,infectious disease,cefotaxime,azithromycin,Flagyl,Flagyl,shingles,acyclovir,chronic renal insufficiency,regular insulin,glipizide,atrial fibrillation,Coumadin,Coumadin,iron
+deficiency anemia,Coumadin,Coumadin,simvastatin,captopril,iron deficiency
+anemia,Tylenol,Amiodarone,Aspirin,calcitriol,Captopril,Colace,Lasix,Glipizide,Atrovent,Ativan,Flagyl,Senna,Trazodone,insomnia,Coumadin,Simvastatin,Ambien,Plavix,Nexium,Amiodarone,Cefpodoxime,Reglan,diabetic

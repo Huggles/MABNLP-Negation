@@ -1,0 +1,1 @@
+chest pain,pain,nausea,obesity,asthma,orthopnea,dizziness,lovenox,dobutamine,hypertension,htn,coronary,cad ( coronary artery disease ),allergy,heparin,unstable angina,angina,cough,obese,asbestosis,head injury,elevated cholesterol,infections,incontinence,syncope,mood disorder,penicillins,hernia,munchausen syndrome,shortness of breath,wheezing

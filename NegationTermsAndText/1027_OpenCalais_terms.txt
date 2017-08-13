@@ -1,0 +1,4 @@
+OF PRESENT ILLNESS,ALLERGIES,cancer,lymphadenopathy,chest pain,CORONARY ARTERY DISEASE,transitional cell
+carcinoma,varicose
+veins,drug allergies,vessel
+coronary artery disease,gallstones,asthma

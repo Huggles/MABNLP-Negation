@@ -1,0 +1,3 @@
+hypertrophy,stenosis,insulin dependent diabetes mellitus,coronary artery
+disease,myocardial infarction,left
+ventricular hypertrophy,obstruction,Atenolol,asymmetric septal hypertrophy,hypertrophic,Atenolol,head trauma,ihss,angina,Atenolol,Nifedipine,Lisinopril,aspirin,NPH insulin,drug allergies,sudden death,anisocoria,bruits,cardiac disease,left ventricular hypertrophy,high,Regular insulin,NPH,incision,redness,Aspirin,Lisinopril,Lopressor,Procardia XL

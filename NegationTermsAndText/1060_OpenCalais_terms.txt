@@ -1,0 +1,5 @@
+seasonal allergies,OF PRESENT ILLNESS,anxiety
+disorder,pain,mild
+mitral insufficiency,congestive heart
+failure,peripheral vascular disease,ALLERGIES,myocardial infarction,III heart failure,hypertension,tricuspid regurgitation,pulmonary edema,postoperative anemia,CORONARY ARTERY DISEASE,peptic
+ulcer disease,dyslipidemia , renal failure,rash,baseline dyspnea,ischemic cardiomyopathy

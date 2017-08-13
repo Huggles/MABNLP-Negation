@@ -1,0 +1,1 @@
+disease,diabetes,lesion,pain,hypertension,angina,hypercholesterolemia,ischemia,hypothyroidism,allergy,complaint,cold sore,arrhythmia,ectopy,cyanosis,edema,stress,depression

@@ -1,0 +1,4 @@
+PDA,peripheral vascular disease,ALLERGIES,hypertension,COPD,postoperative urinary tract
+infection,shortness of breath,mild cardiomegaly,nausea,substernal
+chest pain,OF PRESENT ILLNESS,pain,vomiting,numbness,myocardial infarction,UNSTABLE ANGINA,diabetes mellitus,No known drug allergies,abdominal aortic aneurysm,critical
+coronary artery disease,NIDDM,Coronary artery disease,atrial fibrillation,infection,hypercholesterolemia

@@ -1,0 +1,1 @@
+lesion,allergy,edema,obesity,infection,meningitis,angina

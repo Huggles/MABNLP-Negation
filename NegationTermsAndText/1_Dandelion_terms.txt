@@ -1,0 +1,7 @@
+anemia,gi bleed,diabetes,atrial
+fibrillation,chronic kidney disease,congestive
+heart failure,hip pain,Levaquin,urinary tract infection,Lantus,NovoLog,Imdur,amlodipine,furosemide,valsartan,warfarin,congestive heart failure,diabetic nephropathy,type 2 diabetes,stroke,rheumatic,valvular disease,atrial fibrillation,small
+bowel obstruction,heart
+disease,me,allergies,Codeine,tricuspid regurgitation,irregular,cardiomegaly,osteoarthritis,atherosclerosis,hiatal hernia,polyps,hypoplastic,h. pylori,bleeding,gastric ulcer,diverticulum,Nexium,Lasix,ulcers,ischemic colitis,gastric
+ulcer,Aranesp,Lasix,av
+fistula,Aranesp,sevelamer,transposition,neurapraxia,Lasix,Lasix,Lantus,aspart,Regular insulin,av fistula,Norvasc,Aranesp,Lovenox,coumadin,Nexium,Lasix,insulin aspart,Lantus,Imdur,Coumadin

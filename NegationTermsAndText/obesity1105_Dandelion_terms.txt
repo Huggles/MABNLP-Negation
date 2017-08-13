@@ -1,0 +1,1 @@
+ASPIRIN,ENALAPRIL,ENALAPRIL,LASIX,FUROSEMIDE,ZOCOR,SIMVASTATIN,TOPROL XL,METOPROLOL SUCCINATE,PLAVIX,CLOPIDOGREL,CELEXA,CITALOPRAM,NEXIUM,ESOMEPRAZOLE,AVANDIA,ROSIGLITAZONE,fat,PCP,allergy,Codeine,infections,hypertension,coronary artery disease,hypercholesterolemia,peripheral neuropathy,chf,hyperlipidemia,coronary,bph,hypothyroidism,ischemia,heparin,hypothyroid

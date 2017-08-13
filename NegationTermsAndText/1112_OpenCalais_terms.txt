@@ -1,0 +1,2 @@
+hypertension,Insulin
+Peripheral neuropathy,Cardiomyopathy,chest pain,Chronic renal insufficiency Diabetes Mellitus,pneumothorax,nausea,right ventricular ICD lead dysfunction,fever,ALLERGY,pain,vomiting,Baseline renal dysfunction,hypoglycemia,Infections,IDDM,hypercholesterolemia,lightheadedness,Ischemic Cardiomyopathy

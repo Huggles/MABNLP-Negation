@@ -1,0 +1,2 @@
+aortic stenosis,heart failure,angina,presyncope,coronary artery disease,mitral insufficiency,tricuspid
+insufficiency,diabetes mellitus,dependent,dyslipidemia,cardiac arrest,complete heart block,skin cancer,drug allergies,Atenolol,aspirin,metformin,Humalog,epinephrine,Precedex,Lasix,urinary tract infection,ciprofloxacin,Lasix,Lasix,Ciprofloxacin,baby aspirin,Lasix,Motrin,NovoLog,Lantus,Toprol-XL,NovoLog

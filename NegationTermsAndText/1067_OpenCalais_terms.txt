@@ -1,0 +1,7 @@
+Denies h/o
+cancer,PDA,*Carotid stenoses,SPRAY PO x1 PRN chest
+pain
+****ALLERGIES,Chest Pain,further chest pain,nausea,*NIDDM,chronic renal insufficiency,ST depression,Rest chest pain,unstable angina,chronic renal
+dysfunction,PDA territory
+scar,LVH,Infections,vision/ diaphoresis/ cough,*chronic,shortness of breath,Erectile dysfunction,mild LVH,NSR@95bpm w/
+ST depression,ALLERGY,pain,renal insufficiency,52M pastor h/o NIDDM,heart attack,nlm Ao w/o dissection/aneurysm,dizziness,hypercholesterolemia,lightheadedness

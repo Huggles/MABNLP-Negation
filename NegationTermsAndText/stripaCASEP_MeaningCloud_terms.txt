@@ -1,0 +1,1 @@
+complaint,infection,anxiety,osteoporosis,insomnia,hypercholesterolemia,otitis,allergy,glaucoma,depression,influenza,hyperthyroidism,flu

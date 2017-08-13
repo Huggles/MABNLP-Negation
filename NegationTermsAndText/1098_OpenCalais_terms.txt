@@ -1,0 +1,3 @@
+recurrent MRSA infections,T5-T6 diskitis osteomyelitis,anuric , likely source decubitus
+ulcers,ALLERGIES,gastroparesis,contracture,Hypertension,bacteremia,sacral decubitus ulcers,gram-negative rod sepsis,decubitus ulcers,spinal cord
+compression,atrial fibrillation,recurrent infections,fungemia,hyperglycemia,end-stage renal disease,Depression,osteomyelitis,Infectious disease,MRSA osteomyelitis bacteremia,syndrome,diabetes,C. diff colitis,Hyperlipidemia,I diabetes

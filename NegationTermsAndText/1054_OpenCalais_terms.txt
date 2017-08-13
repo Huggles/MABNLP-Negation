@@ -1,0 +1,3 @@
+cardiac
+angina,leg fatigue,OF PRESENT ILLNESS,rest chest pain,pain,ALLERGIES,left arm numbness,myocardial infarction,unstable angina,multivessel coronary artery disease,inguinal
+hernia,hypertension,benign prostatic hypertrophy,mm ST segment depression,cervical radiculopathy,chest pain,bradycardia,CORONARY ARTERY DISEASE,vessel disease,sinus bradycardia,C4-C5 radiculopathy,rash,diabetes,non-insulin dependent diabetes

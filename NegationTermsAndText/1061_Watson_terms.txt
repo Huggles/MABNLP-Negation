@@ -1,0 +1,1 @@
+aspirin,Lisinopril,INFARCTION,nausea,vomiting,ventricular hypertrophy,pericardial effusion,ILLNESS,wound infection,ALLERGIES,vascular disease,stenosis,diabetes,Heparin,hypercholesterolemia,Atenolol,Adenosine,ibuprofen

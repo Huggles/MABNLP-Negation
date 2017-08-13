@@ -1,0 +1,5 @@
+ABDOMINAL PAIN,hematochezia,ALLERGIES,associated nausea,hypertension,Insulin-dependent diabetes mellitus,chest pain,severe gastroparesis,p.o. q.i.d. p.r.n. constipation,shortness of
+breath,chills,p.r.n. headache,chronic renal
+failure,osteomyelitis,non-incarcerated hernia,nausea,thrombocytopenia,chronic renal insufficiency,allergy,peripheral neuropathy,colitis,hyperlipidemia , spinal
+stenosis,leukocytosis,OF PRESENT ILLNESS,pain,vomiting,severe osteomyelitis,fatigue,diabetes mellitus,prerenal azotemia,chronic disease,diarrhea,infection,dizziness,End-stage renal disease,cough,constipation,p.r.n. nausea,liver disease,hypoglycemia,Infectious disease,diffuse
+abdominal pain,anemia

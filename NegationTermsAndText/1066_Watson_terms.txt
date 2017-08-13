@@ -1,0 +1,1 @@
+WARFARIN,AMIODARONE,ASPIRIN,SIMVASTATIN,obesity,RAMIPRIL,ALLERGY,Heparin,ventral hernia,METOPROLOL,CLOPIDOGREL,mood disorder,+dry cough,+ventral hernia,diaphoresis,PCP,munchausen syndrome.,dobutamine,Morphine

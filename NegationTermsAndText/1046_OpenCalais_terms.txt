@@ -1,0 +1,8 @@
+occlusive
+disease,diabetic retinopathy,dependent diabetes mellitus,peripheral vascular disease,hypertension,schizophrenia,ganglion cyst,amaurosis fugax,catatonia,Hypothyroidism,diabetic
+neuropathy,cellulitis,Thus coronary artery
+disease,leg
+pain,Diabetes,OF PRESENT ILLNESS,hypercholesterolemia , positive family history,cardiac
+and peripheral vascular disease,pain,myocardial
+infarction,diabetes
+mellitus,RULE OUT CORONARY ARTERY DISEASE,cardiac disease,impotence

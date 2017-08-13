@@ -1,0 +1,5 @@
+pseudogout,hypertension,urinary tract infection,diabetes,ms,urinary incontinence,urosepsis,pneumonia,infection,levofloxacin,Flagyl,Tylenol,Flagyl,cefuroxime,alcohol
+abuse,spinal stenosis,cervical
+spondylosis,cord compression,osteoarthritis,senile dementia,peptic ulcer disease,gi
+bleed,shingles,pyelonephritis,iron deficiency anemia,allergies,Naprosyn,Lopressor,metronidazole,nifedipine,Lantus,heparin,Senna,Effexor,Nexium,Paxil,cervical spondylosis,erythematous,Flagyl,urine culture,yeast
+infection,infectious disease,dvt,Colchicine,Depo-Medrol,Lantus,aspart,Novolog,hypoglycemia,metoprolol,Captopril,hypotension,oxycodone,PCP

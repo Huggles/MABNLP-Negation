@@ -1,0 +1,5 @@
+pleural effusions,congestive heart failure,ALLERGIES,anterior myocardial infarction,Hypertension,right coronary artery stenosis,chest pain,headache,Polymyalgia rheumatica,acute pulmonary edema,mitral stenosis,dyspnea,Hypothyroidism,demonstrated small bilateral pleural effusions,shortness of breath,mitral regurgitation,persistent right bundle branch block,patient developed atrial
+fibrillation,allergy,vomiting,pain,PRESENT ILLNESS,retinal disease,myocardial infarction,multiple sclerosis,demonstrated bilateral pleural
+effusions,pulmonary capillary
+wedge pressure,coronary
+artery disease,left anterior fascicular block,Normocytic anemia,Atrial fibrillation,moderate mitral regurgitation,Gastroesophageal reflux disease,Peptic ulcer disease,pulmonary artery,atrial flutter

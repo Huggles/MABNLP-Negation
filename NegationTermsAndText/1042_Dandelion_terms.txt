@@ -1,0 +1,5 @@
+clotted,av fistula,atrial fibrillation,change,ms,dilated cardiomyopathy,coronary
+artery disease,rejection,end-stage renal disease,diabetes mellitus,hypertension,clot,fistula,atrial
+flutter,cardiomyopathy,coronary artery disease,transplant rejection,peptic ulcer disease,cva,asthma,Labetalol,Imdur,lisinopril,NPH,Nexium,prednisone,Imuran,rapamycin,sevelamer,Lipitor,aspirin,allergies,Percocet,bruit,flutter,infarct,hemorrhage,cmv,growth,coronary artery
+disease,atrial flutter,Imuran,ischemia,Imdur,atrial
+fibrillation,diltiazem,metoprolol,arrhythmia,seizure,bleed,infectious,type 2 diabetes,lispro,infectious diseases,Nexium,Aspirin,Imuran,Colace,heparin,simvastatin,Imdur,Cartia XT,Toprol XL

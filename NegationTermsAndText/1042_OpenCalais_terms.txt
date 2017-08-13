@@ -1,0 +1,5 @@
+abdominal pain,infectious workup,ALLERGIES,patient's atrial arrhythmia,hypertension,atrial flutter/atrial
+fibrillation,chest pain,shortness of breath,allograft coronary
+artery disease,diabetes,moderate concentric LVH,seizure,OF PRESENT ILLNESS,infectious etiologies,diabetes mellitus,Infectious diseases,atrial fibrillation,ATRIAL TACHYCARDIA,Idiopathic cardiomyopathy,atrial
+tachyarrhythmia,end-stage renal disease,Peptic ulcer disease,depression,idiopathic dilated cardiomyopathy,pseudodementia,lightheadedness,atrial
+flutter,Asthma

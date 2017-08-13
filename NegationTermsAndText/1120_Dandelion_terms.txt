@@ -1,0 +1,2 @@
+CATAPRES,CLONIDINE,EPOETIN ALFA,LABETALOL,LISINOPRIL,LISINOPRIL,LISINOPRIL,PREDNISONE,ZOCOR,SIMVASTATIN,SIMVASTATIN,FK506,TACROLIMUS,SIMVASTATIN,NIFEDIPINE,NIFEDIPINE,RENAGEL,KEFLEX,CEPHALEXIN,FLEXERIL,CYCLOBENZAPRINE,back pain,COLCHICINE,allergies,end stage renal disease,infections,diabetes mellitus,hypertension,sleep apnea,sleep
+apnea,obesity,chronic renal failure,esrd,infection,hidradenitis suppurativa,cellcept,kayexalate,ancef,nodule,osteophytes

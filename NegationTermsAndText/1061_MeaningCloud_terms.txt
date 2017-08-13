@@ -1,0 +1,1 @@
+lesion,depression,diabetes,disease,allergy,nausea,ischemia,hypertrophy,hypercholesterolemia,hypertension,pain,angina,infection

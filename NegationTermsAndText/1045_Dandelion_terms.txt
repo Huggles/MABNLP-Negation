@@ -1,0 +1,3 @@
+coronary artery disease,atrial
+fibrillation,angina,atrial fibrillation,flutter,myocardial infarction,drug allergies,diabetes mellitus,atrial flutter,bruit,sma,digoxin,procainamide,stenosis,Lopressor,Digoxin,Lopressor,Lopressor,change,supraventricular tachycardia,Verapamil,Axid,aspirin,Digoxin,Percocet,Zocor,Colace,Lopressor,Lasix,Lisinopril,Procan
+SR,Lisinopril,Lopressor,Percocet,Procan SR,Zocor

@@ -1,0 +1,1 @@
+myocardial infarction,edema,pain,hypertension,diabetes,pulmonary edema,disease,adhesion,fever,calculus,allergy,eruption,scar

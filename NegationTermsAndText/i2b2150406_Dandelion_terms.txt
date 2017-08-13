@@ -1,0 +1,3 @@
+unstable angina,ms,non-insulin dependent diabetes mellitus,hyperlipidemia,hypertension,anginal,heparin,coronary
+artery disease,phlebitis,drug allergies,Glucophage,Lipitor,atenolol,aspirin,Zestril,Celexa,Klonopin,Neurontin,coronary artery disease,myocardial infarction,age,Lovenox,stenosis,Zocor,Lopressor,captopril,Celexa,Klonopin,hematoma,Lovenox,Plavix,Lovenox,compartment syndrome,compartment
+syndrome,Plavix,bleeding disorder,bleeds,bruising,hematomas,trauma,bleeding,childbirth,Lovenox,Plavix,familial,von willebrand,blood loss,Zocor,Tylenol,Tylenol,Percocet,Aspirin,Klonopin,Celexa,Zestril,Lipitor

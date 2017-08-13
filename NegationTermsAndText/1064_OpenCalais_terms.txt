@@ -1,0 +1,4 @@
+kidney stone,ALLERGIES,congestive heart
+failure,associated
+nausea,Hypertension,gallstone,chest
+pain,shortness of breath,hematuria,further chest pain,diabetes,Hyperlipidemia,acute and chronic renal failure,OF PRESENT ILLNESS,pain,vomiting,tablets p.r.n. constipation,fatigue,non-ST elevation myocardial infarction,mild headache,Diabetes mellitus,rotational dizziness,pulmonary edema,coronary artery disease,atrial fibrillation,idiopathic cardiomyopathy,rash,Infectious Disease,Acute renal failure,lightheadedness,p.r.n. chest pain,HYPOTENSION

@@ -1,0 +1,1 @@
+pain,disease,dystrophy,glaucoma,depression,anxiety,edema,ischemia,hypothyroidism,hypotension,allergy,anemia,hypertension,infection

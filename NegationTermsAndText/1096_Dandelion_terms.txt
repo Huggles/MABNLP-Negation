@@ -1,0 +1,3 @@
+transient ischemic attacks,orthostatic,leiomyoma,metastatic lesion,esophagitis,peptic ulcer disease,aspirin,tia,hip pain,weight loss,constitutional
+symptoms,spastic
+colon,psoriatic,psoriasis,carcinoma,hiatal hernia,reflux esophagitis,bph,glucose intolerance,cataract,removal,allergies,coronary artery disease,diabetes,tuberculosis,fit,s3,hepatosplenomegaly,pyuria,hematuria,cyst,Pepcid

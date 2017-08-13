@@ -1,0 +1,1 @@
+edema,pain,obesity,gout,strabismus,ischemia,polyp,allergy,infection,diabetes,disease

@@ -1,0 +1,2 @@
+ALLERGY,H/O atrial fibrillation,H/O deep venous thrombosis,gout,S/P hernia,diabetes mellitus,umbilical hernia,S/P myocardial infarction,NIDDM,head trauma,heart block,pulmonary embolism,degree heart
+block,POSSIBLE allergy,MS,Infections

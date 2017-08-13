@@ -1,0 +1,1 @@
+hematoma,pain,myocardial infarction,lesion,hypertension,disease,diabetes,angina,allergy,anxiety,phlebitis,edema,complaint,disorder,depression

@@ -1,0 +1,1 @@
+allergy,pain,renal disease,syphilis,ischemia,infection,cyst,disease,complaint,edema,constipation

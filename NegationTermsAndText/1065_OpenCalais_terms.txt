@@ -1,0 +1,5 @@
+PDA,postoperative atrial fibrillation,peripheral vascular disease,congestive heart failure,ALLERGIES,hypertension,insulin-dependent diabetes mellitus,chest pain,Three-vessel coronary artery disease,shortness of breath,stroke,pulmonary
+toilet,coughing,aggressive
+pulmonary toilet,atelectasis,OF PRESENT ILLNESS,pain,renal
+insufficiency,No known drug allergies,pleural effusion,CORONARY ARTERY DISEASE,bilateral atelectasis,II diabetes mellitus,atrial fibrillation,infection,cough,considerable atelectasis,status post stroke,uterine fibroids,hypercholesterolemia , excessive bleeding while,small
+right pleural effusion

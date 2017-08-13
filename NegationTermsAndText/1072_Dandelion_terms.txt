@@ -1,0 +1,2 @@
+presyncope,coronary artery disease,myocardial infarctions,back pain,myocardial infarction,angina,congestive heart failure,trauma,menopause,age,hypertension,ventricular enlargement,mitral regurgitation,allergies,Penicillin,anaphylaxis,Isordil,Cardizem,abuse,orthostatic,bleeding,bruits,s3,s4,bruit,cardiomegaly,myocardial
+infarction,hypertensive,aspirin,pvc,ischemic,depressions,ischemia,akinesis,aneurysm,tumor,thrombus,Isordil,Cardizem,Lopressor,Aspirin

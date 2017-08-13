@@ -1,0 +1,3 @@
+cerebrovascular accident,type ii diabetes,atrial fibrillation,Coumadin,congestive heart failure,hypercholesterolemia,hypertension,obesity,diplopia,change,chf,bronchitis,Biaxin,Diltiazem,diabetes. 2,Coumadin,degenerative joint disease,chronic renal insufficiency,gastroesophageal reflux disease,sleep
+apnea,drug allergies,Coumadin,simvastatin,Zaroxolyn,Prilosec,lisinopril,Relafen,amitriptyline,Lasix,obese,bruits,irregular,morbid obesity,wound,dysmetria,atrial
+fibrillation,cardiomegaly,cva,defect,Coumadin,infarct,hemorrhage,Coumadin,Coumadin,imbalance,cerebral infarct,stroke,tia,Coumadin,Amitriptyline,Colace,Lasix,Prilosec,Relafen,Zaroxolyn,Coumadin,Coumadin,Coumadin,Coumadin

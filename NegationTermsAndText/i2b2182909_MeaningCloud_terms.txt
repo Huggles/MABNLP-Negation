@@ -1,0 +1,1 @@
+myocardial infarction,hypothyroidism,diabetes,hypercholesterolemia,hypertension,edema,disease,allergy,hyperthyroidism,hypertrophy,cold sore,cyanosis,complaint,pain,thrombosis,tetanus

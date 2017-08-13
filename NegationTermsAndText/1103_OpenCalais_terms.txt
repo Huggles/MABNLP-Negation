@@ -1,0 +1,3 @@
+atypical chest pain,non-reversible scar,chest pain,shortness of
+breath,heart disease,ALLERGY,pain,pulm/infectious component,DEFINITE allergy,infection,hepatitis,thrombosis,Treatment/Stay
+unstable angina,Infections,potential pericarditis,MIBI old scar

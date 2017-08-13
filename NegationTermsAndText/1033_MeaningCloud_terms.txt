@@ -1,0 +1,1 @@
+myocardial infarction,disease,ictus,pulmonary edema,lesion,pneumonia,diabetes,depression,pain,cold sore,aneurysm,eruption,cyanosis,edema,arthritis,insomnia,anxiety

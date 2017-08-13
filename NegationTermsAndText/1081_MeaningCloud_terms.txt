@@ -1,0 +1,1 @@
+bronchitis,high cholesterol,hypothyroidism,pain,allergy,infection,psoriasis,asthma,edema,goiter,abscess

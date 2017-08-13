@@ -1,0 +1,5 @@
+ascites,TYLENOL,ACETAMINOPHEN,ASPIRIN,WARFARIN,ASPIRIN,DIGOXIN,VERAPAMIL,DIGOXIN,VERAPAMIL,DIGOXIN,GLIPIZIDE,WARFARIN,DIGOXIN,ZESTRIL,LISINOPRIL,LISINOPRIL,LISINOPRIL,SPIRONOLACTONE,LISINOPRIL,COUMADIN,WARFARIN SODIUM,WARFARIN,ZOCOR,WARFARIN,SIMVASTATIN,TRICOR,WARFARIN,FENOFIBRATE,WARFARIN,ASPIRIN,ZOCOR,SIMVASTATIN,WARFARIN,SIMVASTATIN,RISPERIDONE,TRICOR,FENOFIBRATE,WARFARIN,FENOFIBRATE,NEXIUM,ESOMEPRAZOLE,LANTUS,INSULIN GLARGINE,LASIX,FUROSEMIDE,PCP,allergy,STREPTOMYCIN,FENTANYL,MIDAZOLAM,infections,coronary artery disease,chf,diastolic dysfunction,congestive
+heart failure,pulmonary hypertension,atrial
+fibrillation,atrial fibrillation,diabetes
+mellitus,sleep apnea,hypothyroidism,anemia,hypertension,thrombocytopenia,low platelets,peripheral neuropathy,peripheral
+neuropathy,djd,degenerative joint disease,hypotension,aldactone,cut,PCP,afib,PCP,Digoxin,arrest,rvh,pericardial effusion,novolog,af

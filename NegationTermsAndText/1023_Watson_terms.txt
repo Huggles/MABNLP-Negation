@@ -1,0 +1,1 @@
+stenosis,heparin,artery disease,digoxin,infarction,prednisone,acute pulmonary edema,atrial enlargement,regurgitation.,Polymyalgia rheumatica,right bundle branch block,dyspnea,headache,ALLERGIES,Captopril,hypertension,reflux,penicillin,aspirin,Hypothyroidism,Dopamine,Erythromycin,Hypertension.

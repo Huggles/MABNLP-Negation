@@ -1,0 +1,3 @@
+fever,arrhythmia,OF PRESENT ILLNESS,vomiting,PAIN,ALLERGIES,myocardial
+infarction,diabetes
+mellitus,No known drug allergies,phlegmon,gastroenteritis,supraventricular tachycardia,either atrial fibrillation,chills,sinus tachycardia,perforated appendicitis,Non Insulin dependent diabetes mellitus,appendicitis,hypotension,morbid obesity

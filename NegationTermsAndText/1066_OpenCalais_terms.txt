@@ -1,0 +1,3 @@
+munchausen syndrome,asbestosis,hypertension,+ventral hernia,chest pain,coumadin clinic
+ALLERGY,chest pain
+HPI,syncope,pain,unstable angina,obesity,dizziness/LH/nausea,coronary artery disease,heparin allergy,cough,disorder NOS,Infections,head injury,asthma

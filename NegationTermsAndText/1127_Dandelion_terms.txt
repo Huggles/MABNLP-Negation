@@ -1,0 +1,4 @@
+osteoarthritis,hip pain,coronary artery
+disease,myocardial infarction,atrial fibrillation,pulmonary
+thromboembolism,non-insulin dependent diabetes mellitus,sleep apnea,abdominal aortic aneurysm
+repair,drug allergies,Imdur,Verapamil,digoxin,allopurinol,Coumadin,Neurontin,aspirin,glyburide,triamterene,Imdur,Verapamil,Allopurinol,Coumadin,Neurontin,Glyburide,Triamterene,Darvocet,Coumadin

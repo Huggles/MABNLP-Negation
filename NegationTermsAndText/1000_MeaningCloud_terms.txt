@@ -1,0 +1,1 @@
+pain,myocardial infarction,hypertrophy,diabetes,angina,disease,allergy,complaint,lesion,cyanosis,edema,fever

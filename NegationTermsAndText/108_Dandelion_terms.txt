@@ -1,0 +1,3 @@
+ALLOPURINOL,ASPIRIN,ATENOLOL,COLCHICINE,COLACE,DOCUSATE SODIUM,PLAVIX,CLOPIDOGREL,COMBIVENT,IPRATROPIUM,ALBUTEROL,INH,FLUTICASONE PROPIONATE,INH,NEXIUM,ESOMEPRAZOLE,TRICOR,ZOCOR,SIMVASTATIN,GEMFIBROZIL,SIMVASTATIN,GEMFIBROZIL,SIMVASTATIN,LASIX,FUROSEMIDE,ACARBOSE,allergy,chf,infections,diabetes mellitus,obesity,emphysema,chronic obstructive pulmonary disease,sick sinus syndrome,sick
+sinus syndrome,avm,pvd,weight
+gain,pe,strabismus,obese,fobt,ischemia,mi,acute,failure,congestion,polyp,bleeding,avms,actos,metformin,weight gain

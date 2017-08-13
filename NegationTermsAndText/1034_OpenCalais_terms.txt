@@ -1,0 +1,7 @@
+congestive
+heart failure,PCP
+ALLERGY,hypertension,hypothyroidism,joint disease,thrombocytopenia,pulmonary hypertension,peripheral neuropathy,Pain,sleep apnea,diabetes
+mellitus,coronary artery disease,atrial
+fibrillation,dizziness,depression,Infections,anemia,pulmonary
+htn,chf , diastolic dysfunction,hypotension,triv
+pericardial effusion

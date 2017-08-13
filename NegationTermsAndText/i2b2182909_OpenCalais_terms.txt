@@ -1,0 +1,4 @@
+ALLERGIES,ventricular tachycardia,CONGESTIVE HEART FAILURE,HYPERTENSION,benign prostatic hypertrophy,hyperthyroidism secondary,cardiomyopathy,chest pain,disease,HYPOTHYROIDISM,shortness of breath,mitral
+regurgitation,NON-INSULIN DEPENDENT DIABETES
+MELLITUS,dyslipidemia,tetanus,degenerative joint disease,allergy,OF PRESENT ILLNESS,then
+developed hypothyroidism,myocardial infarction,moderate mitral regurgitation,thrombosis,pulmonary congestion,HYPERCHOLESTEROLEMIA,hemochromatosis,ATRIAL FLUTTER,ISCHEMIC CARDIOMYOPATHY

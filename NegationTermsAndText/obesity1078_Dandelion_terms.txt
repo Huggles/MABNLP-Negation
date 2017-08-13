@@ -1,0 +1,1 @@
+stroke,coronary artery disease,hypertension,hypercholesterolemia,type ii diabetes mellitus,gastroesophageal reflux disease,neglect,apraxia,facial palsy,stenosis,embolic stroke,infarct,valvular disease,thrombus,Heparin,Coumadin,myocardial infarction,aphasia,Allopurinol,Atenolol,Colchicine,Prilosec,Lipitor,Coumadin
